@@ -1,11 +1,9 @@
 ---
-layout: post-full
 title: "Spring setting intellij"
 description: "intellij에서 Spring Setting"
 categories: [java, Spring]
 tags: [java, Spring, settin, intellij]
-redirect_from:
-  - /2017/09/14/
+date: 2017-09-12 23:30:04
 ---
 
 * Kramdown table of contents

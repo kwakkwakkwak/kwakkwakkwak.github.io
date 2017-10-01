@@ -1,11 +1,9 @@
 ---
-layout: post-full
 title: "HTML Markup Tip"
 description: "HTML 구조적으로 설계를 잘해보자! 올바른 마크업"
 categories: [HTML]
 tags: [HTML]
-redirect_from:
-  - /2017/09/14/
+date: 2017-09-12 23:30:04
 ---
 
 * Kramdown table of contents
