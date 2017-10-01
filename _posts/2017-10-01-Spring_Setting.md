@@ -36,3 +36,71 @@ date: 2017-09-12
 
 ## MVC 패턴, Spring framework 추가 
 
+* project root에 오른쪽 클릭하고 add Framework support...을 열고
+![1](/assets/images/springSetting/7.png)
+* Spring MVC를 체크하고 ok하면 spring 다운을 시작합니다.
+![1](/assets/images/springSetting/8.png)
+* 모두 완료되면 pom.xml을 열어봅니다.
+![1](/assets/images/springSetting/9.png)
+
+그리고 xml을 변경해줍니다. <주의!!> PROJECT_NAME을 잘설정 해줘야 합니다.
+```xml
+ <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+   <modelVersion>4.0.0</modelVersion>
+   <groupId>org.springframework.samples.service.service</groupId>
+   <artifactId>PROJECT_NAME</artifactId>
+   <version>0.0.1-SNAPSHOT</version>
+   <packaging>war</packaging>
+ 
+   <properties>
+ 
+     <!-- Generic properties -->
+     <java.version>1.8</java.version>
+     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+ 
+     <!-- Spring -->
+     <spring-framework.version>4.0.7.RELEASE</spring-framework.version>
+ 
+   </properties>
+ 
+   <dependencies>
+ 
+     <!-- Spring MVC -->
+     <dependency>
+       <groupId>org.springframework</groupId>
+       <artifactId>spring-webmvc</artifactId>
+       <version>${spring-framework.version}</version>
+     </dependency>
+ 
+ 
+     <!-- https://mvnrepository.com/artifact/org.springframework/spring-aop -->
+     <dependency>
+       <groupId>org.springframework</groupId>
+       <artifactId>spring-aop</artifactId>
+       <version>4.0.7.RELEASE</version>
+     </dependency>
+     <!-- https://mvnrepository.com/artifact/org.aspectj/aspectjweaver -->
+     <dependency>
+       <groupId>org.aspectj</groupId>
+       <artifactId>aspectjweaver</artifactId>
+       <version>1.8.11</version>
+     </dependency>
+ 
+ 
+   </dependencies>
+ 
+   <build>
+     <plugins>
+       <plugin>
+         <artifactId>maven-compiler-plugin</artifactId>
+         <configuration>
+           <source>${java.version}</source>
+           <target>${java.version}</target>
+         </configuration>
+       </plugin>
+     </plugins>
+   </build>
+ </project>
+```
