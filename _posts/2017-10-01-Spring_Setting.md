@@ -10,6 +10,7 @@ tags:
  Setting
  intellij
 date: 2017-10-01 
+comments : true
 ---
 
 # intellij에서 Spring Setting

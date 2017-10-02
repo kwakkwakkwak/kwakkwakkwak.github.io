@@ -9,6 +9,7 @@ tags:
  Spring
  intellij
 date: 2017-10-02 
+comments : true
 ---
 
 _사용 예제는 [여기](https://github.com/kwakkwakkwak/Java_Spring) 에서 확인 할 수 있습니다._
