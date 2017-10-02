@@ -110,6 +110,6 @@ date: 2017-09-12
 * xml을 적용한 후에는 아래 그림과 같이 reiomport 를 해주세요.(파일이 꼬일수 있어요) 
 ![1](/assets/images/springSetting/10.png)
 
-<h1>
+
 기본적인 설정은 끝~
-<h2>
+
