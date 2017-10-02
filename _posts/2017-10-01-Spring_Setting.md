@@ -43,7 +43,7 @@ date: 2017-09-12
 * 모두 완료되면 pom.xml을 열어봅니다.
 ![1](/assets/images/springSetting/9.png)
 
-그리고 xml을 변경해줍니다. <주의!!> PROJECT_NAME을 잘설정 해줘야 합니다.
+* 그리고 xml을 변경해줍니다. <주의!!> PROJECT_NAME을 잘설정 해줘야 합니다.
 ```xml
  <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -65,6 +65,8 @@ date: 2017-09-12
  
    </properties>
  
+ 
+ <!-- 여러 라이브러리 추가는 dependencies안에서 행한다.-->
    <dependencies>
  
      <!-- Spring MVC -->
@@ -90,7 +92,7 @@ date: 2017-09-12
  
  
    </dependencies>
- 
+ <!-- 자바 빌드를 하기 위한 xml코드-->
    <build>
      <plugins>
        <plugin>
@@ -104,3 +106,10 @@ date: 2017-09-12
    </build>
  </project>
 ```
+
+* xml을 적용한 후에는 아래 그림과 같이 reiomport 를 해주세요.(파일이 꼬일수 있어요) 
+![1](/assets/images/springSetting/10.png)
+
+<h1>
+기본적인 설정은 끝~
+<h2>
