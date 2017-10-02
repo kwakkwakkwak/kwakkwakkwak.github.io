@@ -11,9 +11,9 @@ tags:
 date: 2017-10-02 
 ---
 
-사용 예제는 [여기](https://github.com/kwakkwakkwak/Java_Spring) 에서 확인 할 수 있습니다.
+_사용 예제는 [여기](https://github.com/kwakkwakkwak/Java_Spring) 에서 확인 할 수 있습니다._
 
-**_Console Spring framework_**
+##**_Console Spring framework_**
 
 ## @Autowired (예제 part5,6)
 
@@ -532,12 +532,12 @@ public class Profiler {
 ```
 * @Aspect 
 
-    - AOP 사용을 선언
+     AOP 사용을 선언
 
 * @PointCut 
  
-    - 표현식으로 part12의 모든 메소드(반환타입, 메소드명, 매개변수 모두)를 publicMethod 라는 이름의 껍데기에 선언한다.
+     표현식으로 part12의 모든 메소드(반환타입, 메소드명, 매개변수 모두)를 publicMethod 라는 이름의 껍데기에 선언한다.
   
 * @Around
 
-    - @Around("메소드") 형태로 안에 메소드에 아래내용을 넣겠다. 라고 선언을 한다.
+     @Around("메소드") 형태로 안에 메소드에 아래내용을 넣겠다. 라고 선언을 한다.
