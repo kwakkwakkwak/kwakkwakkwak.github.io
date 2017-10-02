@@ -13,8 +13,6 @@ date: 2017-10-02
 
 _사용 예제는 [여기](https://github.com/kwakkwakkwak/Java_Spring) 에서 확인 할 수 있습니다._
 
-##**_Console Spring framework_**
-
 ## @Autowired (예제 part5,6)
 
 * 생성자와 setter 생략
