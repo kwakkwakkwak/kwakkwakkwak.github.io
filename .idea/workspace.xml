@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-02-Spring_Java_Annotation.md" afterPath="$PROJECT_DIR$/_posts/2017-10-02-Spring_Java_Annotation.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md" afterPath="$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,15 +21,15 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="701">
-                <caret line="185" column="4" lean-forward="false" selection-start-line="185" selection-start-column="4" selection-end-line="185" selection-end-column="4" />
+              <first_editor relative-caret-position="186">
+                <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
                 <folding>
-                  <marker date="1506938882522" expanded="true" signature="766:1570" ph="..." />
-                  <marker date="1506938882522" expanded="true" signature="1030:1415" ph="..." />
-                  <marker date="1506938882522" expanded="true" signature="1195:1355" ph="..." />
-                  <marker date="1506938882522" expanded="true" signature="1438:1558" ph="..." />
-                  <marker date="1506938882522" expanded="true" signature="1739:2741" ph="..." />
-                  <marker date="1506938882522" expanded="true" signature="2626:2732" ph="..." />
+                  <marker date="1506939037317" expanded="true" signature="763:1567" ph="..." />
+                  <marker date="1506939037317" expanded="true" signature="1027:1412" ph="..." />
+                  <marker date="1506939037317" expanded="true" signature="1192:1352" ph="..." />
+                  <marker date="1506939037317" expanded="true" signature="1435:1555" ph="..." />
+                  <marker date="1506939037317" expanded="true" signature="1736:2738" ph="..." />
+                  <marker date="1506939037317" expanded="true" signature="2623:2729" ph="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -166,7 +165,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506844585942</updated>
-      <workItem from="1506844587139" duration="18440000" />
+      <workItem from="1506844587139" duration="18618000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1506844684806</created>
@@ -259,11 +258,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506922528155</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="jsp for spring&#10;    -end">
+      <created>1506938901166</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1506938901166</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18440000" />
+    <option name="totallyTimeSpent" value="18618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="1440" height="877" extended-state="6" />
@@ -303,7 +309,8 @@
     <MESSAGE value="spring-setting-end" />
     <MESSAGE value="java for spring" />
     <MESSAGE value="java for spring&#10;-end" />
-    <option name="LAST_COMMIT_MESSAGE" value="java for spring&#10;-end" />
+    <MESSAGE value="jsp for spring&#10;    -end" />
+    <option name="LAST_COMMIT_MESSAGE" value="jsp for spring&#10;    -end" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -630,15 +637,15 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="701">
-            <caret line="185" column="4" lean-forward="false" selection-start-line="185" selection-start-column="4" selection-end-line="185" selection-end-column="4" />
+          <first_editor relative-caret-position="186">
+            <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
             <folding>
-              <marker date="1506938882522" expanded="true" signature="766:1570" ph="..." />
-              <marker date="1506938882522" expanded="true" signature="1030:1415" ph="..." />
-              <marker date="1506938882522" expanded="true" signature="1195:1355" ph="..." />
-              <marker date="1506938882522" expanded="true" signature="1438:1558" ph="..." />
-              <marker date="1506938882522" expanded="true" signature="1739:2741" ph="..." />
-              <marker date="1506938882522" expanded="true" signature="2626:2732" ph="..." />
+              <marker date="1506939037317" expanded="true" signature="763:1567" ph="..." />
+              <marker date="1506939037317" expanded="true" signature="1027:1412" ph="..." />
+              <marker date="1506939037317" expanded="true" signature="1192:1352" ph="..." />
+              <marker date="1506939037317" expanded="true" signature="1435:1555" ph="..." />
+              <marker date="1506939037317" expanded="true" signature="1736:2738" ph="..." />
+              <marker date="1506939037317" expanded="true" signature="2623:2729" ph="..." />
             </folding>
           </first_editor>
           <second_editor />

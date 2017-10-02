@@ -15,7 +15,7 @@ date: 2017-10-02
 
 _사용 예제는 [여기](https://github.com/kwakkwakkwak/JSP_Spring) 에서 확인 할 수 있습니다._
 
-#MVC
+# MVC
 
 * MVC는 Model View Controller 의 약자로 Application을 세가지 역할로 구분한 개발 방법론이다.
 
@@ -39,7 +39,7 @@ _사용 예제는 [여기](https://github.com/kwakkwakkwak/JSP_Spring) 에서 �
 
 # JSP for Spring
 
-## Web.xml setting 
+## XML setting 
 
 **web.xml**
 ```xml
