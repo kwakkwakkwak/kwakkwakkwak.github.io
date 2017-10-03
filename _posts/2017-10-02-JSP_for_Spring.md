@@ -185,7 +185,7 @@ public class StudyController {
     
     * return 에서 가져오는 값에 위에 dispatcher-servlet.xml의 prefix, suffix로 접두사 접미사를 붙여줘서 완전한 웹페이지 형태로 만들어준다.
     
-## 실행 코드 결과
+## 실행 결과
 
 **index.jsp**
 ![1](/assets/images/jspForSpring/1.png)
