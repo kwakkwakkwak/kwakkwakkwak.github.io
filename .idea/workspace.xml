@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2013-12-24-categories.md" afterPath="$PROJECT_DIR$/_posts/tutorial/2013-12-24-categories.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2013-12-24-elements.md" afterPath="$PROJECT_DIR$/_posts/tutorial/2013-12-24-elements.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2013-12-24-link-post.md" afterPath="$PROJECT_DIR$/_posts/tutorial/2013-12-24-link-post.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2013-12-24-long-title.md" afterPath="$PROJECT_DIR$/_posts/tutorial/2013-12-24-long-title.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2013-12-24-tags.md" afterPath="$PROJECT_DIR$/_posts/tutorial/2013-12-24-tags.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2013-12-24-中文測試.md" afterPath="$PROJECT_DIR$/_posts/tutorial/2013-12-24-中文測試.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2013-12-24-日本語テスト.md" afterPath="$PROJECT_DIR$/_posts/tutorial/2013-12-24-日本語テスト.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2013-12-25-block.md" afterPath="$PROJECT_DIR$/_posts/tutorial/2013-12-25-block.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2013-12-25-excerpts.md" afterPath="$PROJECT_DIR$/_posts/tutorial/2013-12-25-excerpts.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2013-12-26-images.md" afterPath="$PROJECT_DIR$/_posts/tutorial/2013-12-26-images.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-02-16-Mathjax-with-jekyll.md" afterPath="$PROJECT_DIR$/_posts/tutorial/2014-02-16-Mathjax-with-jekyll.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2014-11-18-gallery-post.md" afterPath="$PROJECT_DIR$/_posts/tutorial/2014-11-18-gallery-post.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-09-19-emoji-test.md" afterPath="$PROJECT_DIR$/_posts/tutorial/2015-09-19-emoji-test.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-07-19-highlight-test.md" afterPath="$PROJECT_DIR$/_posts/tutorial/2017-07-19-highlight-test.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-07-20-next-tutorial.md" afterPath="$PROJECT_DIR$/_posts/tutorial/2017-07-20-next-tutorial.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md" afterPath="$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,80 +32,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2017-10-02-Spring_Java_Annotation.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-Spring_Java_Annotation.md">
+      <file leaf-file-name="2017-10-03-disqus.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-                <folding>
-                  <marker date="1506940789953" expanded="true" signature="847:1529" ph="..." />
-                  <marker date="1506940789953" expanded="true" signature="3180:3857" ph="..." />
-                  <marker date="1506940789953" expanded="true" signature="5474:6190" ph="..." />
-                  <marker date="1506940789953" expanded="true" signature="8171:8791" ph="..." />
-                  <marker date="1506940789953" expanded="true" signature="9656:9800" ph="..." />
-                  <marker date="1506940789953" expanded="true" signature="9891:10023" ph="..." />
-                  <marker date="1506940789953" expanded="true" signature="10287:11546" ph="..." />
-                  <marker date="1506940789953" expanded="true" signature="11085:11343" ph="..." />
-                  <marker date="1506940789953" expanded="true" signature="11125:11321" ph="..." />
-                  <marker date="1506940789953" expanded="true" signature="12286:13548" ph="..." />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-10-02-JSP_for_Spring.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="681">
-                <caret line="187" column="5" lean-forward="false" selection-start-line="187" selection-start-column="5" selection-end-line="187" selection-end-column="5" />
-                <folding>
-                  <marker date="1507007372529" expanded="true" signature="779:1583" ph="..." />
-                  <marker date="1507007372529" expanded="true" signature="1043:1428" ph="..." />
-                  <marker date="1507007372529" expanded="true" signature="1208:1368" ph="..." />
-                  <marker date="1507007372529" expanded="true" signature="1451:1571" ph="..." />
-                  <marker date="1507007372529" expanded="true" signature="1752:2754" ph="..." />
-                  <marker date="1507007372529" expanded="true" signature="2639:2745" ph="..." />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-10-01-Spring_Setting.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-10-01-Spring_Setting.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="200">
-                <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="40" />
-                <folding>
-                  <marker date="1507007181140" expanded="true" signature="1119:2896" ph="..." />
-                  <marker date="1507007181140" expanded="true" signature="1458:1797" ph="..." />
-                  <marker date="1507007181140" expanded="true" signature="1862:2574" ph="..." />
-                  <marker date="1507007181140" expanded="true" signature="1907:2072" ph="..." />
-                  <marker date="1507007181140" expanded="true" signature="2174:2322" ph="..." />
-                  <marker date="1507007181140" expanded="true" signature="2415:2551" ph="..." />
-                  <marker date="1507007181140" expanded="true" signature="2613:2884" ph="..." />
-                  <marker date="1507007181140" expanded="true" signature="2628:2872" ph="..." />
-                  <marker date="1507007181140" expanded="true" signature="2644:2856" ph="..." />
-                  <marker date="1507007181140" expanded="true" signature="2725:2839" ph="..." />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-09-14-HTML_Markup_Tip.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-09-14-HTML_Markup_Tip.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+              <first_editor relative-caret-position="240">
+                <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -115,6 +62,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-10-02-Spring_Java_Annotation.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-01-Spring_Setting.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" />
       </list>
     </option>
   </component>
@@ -127,7 +75,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="72" />
     <option name="y" value="38" />
-    <option name="width" value="1440" />
+    <option name="width" value="1799" />
     <option name="height" value="1051" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -160,17 +108,6 @@
               <item name="jekyll-theme-next-master" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jekyll-theme-next-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jekyll-theme-next-master" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jekyll-theme-next-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jekyll-theme-next-master" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -186,6 +123,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/tutorial" />
       <recent name="$PROJECT_DIR$/assets/images/jspForSpring" />
       <recent name="$PROJECT_DIR$/assets/images/springSetting" />
     </key>
@@ -216,7 +154,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506844585942</updated>
-      <workItem from="1506844587139" duration="20931000" />
+      <workItem from="1506844587139" duration="21700000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1506844684806</created>
@@ -351,17 +289,24 @@
       <option name="project" value="LOCAL" />
       <updated>1507007327289</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="jsp for spring update">
+      <created>1507007377658</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1507007377658</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20931000" />
+    <option name="totallyTimeSpent" value="21700000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="38" width="1440" height="1051" extended-state="0" />
+    <frame x="72" y="38" width="1799" height="1051" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25369978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26602924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -413,7 +358,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-02-16-Mathjax-with-jekyll.md">
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2014-02-16-Mathjax-with-jekyll.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -458,7 +403,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-12-26-images.md">
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-26-images.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="195">
@@ -538,7 +483,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-12-24-日本語テスト.md">
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-日本語テスト.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -549,7 +494,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-12-25-block.md">
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-25-block.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -560,7 +505,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-12-24-中文測試.md">
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-中文測試.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -571,7 +516,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2014-11-18-gallery-post.md">
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2014-11-18-gallery-post.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="330">
@@ -582,7 +527,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-07-19-highlight-test.md">
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2017-07-19-highlight-test.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="305">
@@ -593,7 +538,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-12-24-elements.md">
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-elements.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="566">
@@ -604,7 +549,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-12-24-categories.md">
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-categories.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -615,7 +560,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-12-24-long-title.md">
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-long-title.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -626,7 +571,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-12-24-link-post.md">
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-link-post.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="120">
@@ -637,7 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-07-20-next-tutorial.md">
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2017-07-20-next-tutorial.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="30">
@@ -715,6 +660,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-01-Spring_Setting.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="200">
+            <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="40" />
+            <folding>
+              <marker date="1507007181140" expanded="true" signature="1119:2896" ph="..." />
+              <marker date="1507007181140" expanded="true" signature="1458:1797" ph="..." />
+              <marker date="1507007181140" expanded="true" signature="1862:2574" ph="..." />
+              <marker date="1507007181140" expanded="true" signature="1907:2072" ph="..." />
+              <marker date="1507007181140" expanded="true" signature="2174:2322" ph="..." />
+              <marker date="1507007181140" expanded="true" signature="2415:2551" ph="..." />
+              <marker date="1507007181140" expanded="true" signature="2613:2884" ph="..." />
+              <marker date="1507007181140" expanded="true" signature="2628:2872" ph="..." />
+              <marker date="1507007181140" expanded="true" signature="2644:2856" ph="..." />
+              <marker date="1507007181140" expanded="true" signature="2725:2839" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="545">
+            <caret line="178" column="0" lean-forward="true" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+            <folding>
+              <marker date="1507007372529" expanded="true" signature="779:1583" ph="..." />
+              <marker date="1507007372529" expanded="true" signature="1043:1428" ph="..." />
+              <marker date="1507007372529" expanded="true" signature="1208:1368" ph="..." />
+              <marker date="1507007372529" expanded="true" signature="1451:1571" ph="..." />
+              <marker date="1507007372529" expanded="true" signature="1752:2754" ph="..." />
+              <marker date="1507007372529" expanded="true" signature="2639:2745" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-Spring_Java_Annotation.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -748,41 +733,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-01-Spring_Setting.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="200">
-            <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="40" />
-            <folding>
-              <marker date="1507007181140" expanded="true" signature="1119:2896" ph="..." />
-              <marker date="1507007181140" expanded="true" signature="1458:1797" ph="..." />
-              <marker date="1507007181140" expanded="true" signature="1862:2574" ph="..." />
-              <marker date="1507007181140" expanded="true" signature="1907:2072" ph="..." />
-              <marker date="1507007181140" expanded="true" signature="2174:2322" ph="..." />
-              <marker date="1507007181140" expanded="true" signature="2415:2551" ph="..." />
-              <marker date="1507007181140" expanded="true" signature="2613:2884" ph="..." />
-              <marker date="1507007181140" expanded="true" signature="2628:2872" ph="..." />
-              <marker date="1507007181140" expanded="true" signature="2644:2856" ph="..." />
-              <marker date="1507007181140" expanded="true" signature="2725:2839" ph="..." />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="681">
-            <caret line="187" column="5" lean-forward="false" selection-start-line="187" selection-start-column="5" selection-end-line="187" selection-end-column="5" />
-            <folding>
-              <marker date="1507007372529" expanded="true" signature="779:1583" ph="..." />
-              <marker date="1507007372529" expanded="true" signature="1043:1428" ph="..." />
-              <marker date="1507007372529" expanded="true" signature="1208:1368" ph="..." />
-              <marker date="1507007372529" expanded="true" signature="1451:1571" ph="..." />
-              <marker date="1507007372529" expanded="true" signature="1752:2754" ph="..." />
-              <marker date="1507007372529" expanded="true" signature="2639:2745" ph="..." />
-            </folding>
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
