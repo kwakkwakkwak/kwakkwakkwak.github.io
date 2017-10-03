@@ -21,14 +21,14 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="251">
-                <caret line="36" column="39" lean-forward="false" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+              <first_editor relative-caret-position="206">
+                <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
                 <folding>
-                  <marker date="1507012653196" expanded="true" signature="799:1701" ph="..." />
-                  <marker date="1507012653196" expanded="true" signature="812:1084" ph="/**  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. ...*/" />
-                  <marker date="1507012653196" expanded="true" signature="1095:1385" ph="/*...*/" />
-                  <marker date="1507012653196" expanded="true" signature="1408:1682" ph="{...}" />
-                  <marker date="1507012653196" expanded="true" signature="1934:2018" ph="//..." />
+                  <marker date="1507012814541" expanded="true" signature="798:1700" ph="..." />
+                  <marker date="1507012814541" expanded="true" signature="811:1083" ph="/**  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. ...*/" />
+                  <marker date="1507012814541" expanded="true" signature="1094:1384" ph="/*...*/" />
+                  <marker date="1507012814541" expanded="true" signature="1407:1681" ph="{...}" />
+                  <marker date="1507012814541" expanded="true" signature="1933:2017" ph="//..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -40,8 +40,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/tutorial/2017-07-20-next-tutorial.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-799">
-                <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+              <first_editor relative-caret-position="167">
+                <caret line="123" column="19" lean-forward="true" selection-start-line="123" selection-start-column="19" selection-end-line="123" selection-end-column="19" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -211,7 +211,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506844585942</updated>
-      <workItem from="1506844587139" duration="26136000" />
+      <workItem from="1506844587139" duration="26311000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1506844684806</created>
@@ -458,11 +458,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507012492131</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="disqus 기능 추가 Post">
+      <created>1507012656765</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1507012656765</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26136000" />
+    <option name="totallyTimeSpent" value="26311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="71" y="23" width="1578" height="1177" extended-state="0" />
@@ -685,17 +692,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="330">
             <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-elements.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="566">
-            <caret line="60" column="40" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="60" selection-end-column="40" />
             <folding />
           </first_editor>
           <second_editor />
@@ -927,11 +923,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-elements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="866">
+            <caret line="60" column="40" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="60" selection-end-column="40" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/tutorial/2017-07-20-next-tutorial.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-799">
-            <caret line="61" column="5" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+          <first_editor relative-caret-position="167">
+            <caret line="123" column="19" lean-forward="true" selection-start-line="123" selection-start-column="19" selection-end-line="123" selection-end-column="19" />
             <folding />
           </first_editor>
           <second_editor />
@@ -941,14 +948,14 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="251">
-            <caret line="36" column="39" lean-forward="false" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+          <first_editor relative-caret-position="206">
+            <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
             <folding>
-              <marker date="1507012653196" expanded="true" signature="799:1701" ph="..." />
-              <marker date="1507012653196" expanded="true" signature="812:1084" ph="/**  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. ...*/" />
-              <marker date="1507012653196" expanded="true" signature="1095:1385" ph="/*...*/" />
-              <marker date="1507012653196" expanded="true" signature="1408:1682" ph="{...}" />
-              <marker date="1507012653196" expanded="true" signature="1934:2018" ph="//..." />
+              <marker date="1507012814541" expanded="true" signature="798:1700" ph="..." />
+              <marker date="1507012814541" expanded="true" signature="811:1083" ph="/**  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. ...*/" />
+              <marker date="1507012814541" expanded="true" signature="1094:1384" ph="/*...*/" />
+              <marker date="1507012814541" expanded="true" signature="1407:1681" ph="{...}" />
+              <marker date="1507012814541" expanded="true" signature="1933:2017" ph="//..." />
             </folding>
           </first_editor>
           <second_editor />
