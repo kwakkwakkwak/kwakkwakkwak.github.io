@@ -21,28 +21,28 @@ comments : true
 ![1](/assets/images/springSetting/1.png)
 
 * maven 탭에서 아래와 같이 Create from archetype을 체크 하고, webapp을 선택하고,
-![1](/assets/images/springSetting/2.png)
+![2](/assets/images/springSetting/2.png)
 
 * 적당한 groupid와 artifactid를 주고,
-![1](/assets/images/springSetting/3.png)
+![3](/assets/images/springSetting/3.png)
 
 * maven 버전을 확인하고,
-![1](/assets/images/springSetting/4.png)
+![4](/assets/images/springSetting/4.png)
 
 * 프로젝트 이름과 경로를 확인하고,
-![1](/assets/images/springSetting/5.png)
+![5](/assets/images/springSetting/5.png)
 
 * 프로젝트가 완성되었습니다.
-![1](/assets/images/springSetting/6.png)
+![6](/assets/images/springSetting/6.png)
 
 ## MVC 패턴, Spring framework 추가 
 
 * project root에 오른쪽 클릭하고 add Framework support...을 열고
-![1](/assets/images/springSetting/7.png)
+![7](/assets/images/springSetting/7.png)
 * Spring MVC를 체크하고 ok하면 spring 다운을 시작합니다.
-![1](/assets/images/springSetting/8.png)
+![8](/assets/images/springSetting/8.png)
 * 모두 완료되면 pom.xml을 열어봅니다.
-![1](/assets/images/springSetting/9.png)
+![9](/assets/images/springSetting/9.png)
 
 * 그리고 xml을 변경해줍니다. <주의!!> PROJECT_NAME을 잘설정 해줘야 합니다.
 ```xml
