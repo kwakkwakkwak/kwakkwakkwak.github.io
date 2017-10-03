@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="disqus 위치 수정">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/disqus/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/disqus/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/disqus/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/disqus/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/disqus/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/disqus/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/disqus/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/disqus/8.png" />
+    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" afterPath="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" />
     </list>
@@ -29,13 +21,13 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1065">
-                <caret line="71" column="10" lean-forward="false" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+              <first_editor relative-caret-position="341">
+                <caret line="37" column="7" lean-forward="false" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
                 <folding>
-                  <marker date="1507010012318" expanded="true" signature="729:1631" ph="..." />
-                  <marker date="1507010012318" expanded="true" signature="742:1014" ph="/**  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. ...*/" />
-                  <marker date="1507010012318" expanded="true" signature="1025:1315" ph="/*...*/" />
-                  <marker date="1507010012318" expanded="true" signature="1338:1612" ph="{...}" />
+                  <marker date="1507010340087" expanded="true" signature="760:1662" ph="..." />
+                  <marker date="1507010340087" expanded="true" signature="773:1045" ph="/**  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. ...*/" />
+                  <marker date="1507010340087" expanded="true" signature="1056:1346" ph="/*...*/" />
+                  <marker date="1507010340087" expanded="true" signature="1369:1643" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -248,7 +240,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506844585942</updated>
-      <workItem from="1506844587139" duration="23541000" />
+      <workItem from="1506844587139" duration="23857000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1506844684806</created>
@@ -404,11 +396,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507008439582</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="disqus 기능 추가 Post">
+      <created>1507010040901</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1507010040901</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23541000" />
+    <option name="totallyTimeSpent" value="23857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="71" y="23" width="1578" height="1177" extended-state="0" />
@@ -452,7 +451,8 @@
     <MESSAGE value="add Disqus" />
     <MESSAGE value="jsp for spring update" />
     <MESSAGE value="disqus 위치 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="disqus 위치 수정" />
+    <MESSAGE value="disqus 기능 추가 Post" />
+    <option name="LAST_COMMIT_MESSAGE" value="disqus 기능 추가 Post" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -886,13 +886,13 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1065">
-            <caret line="71" column="10" lean-forward="false" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+          <first_editor relative-caret-position="341">
+            <caret line="37" column="7" lean-forward="false" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
             <folding>
-              <marker date="1507010012318" expanded="true" signature="729:1631" ph="..." />
-              <marker date="1507010012318" expanded="true" signature="742:1014" ph="/**  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. ...*/" />
-              <marker date="1507010012318" expanded="true" signature="1025:1315" ph="/*...*/" />
-              <marker date="1507010012318" expanded="true" signature="1338:1612" ph="{...}" />
+              <marker date="1507010340087" expanded="true" signature="760:1662" ph="..." />
+              <marker date="1507010340087" expanded="true" signature="773:1045" ph="/**  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. ...*/" />
+              <marker date="1507010340087" expanded="true" signature="1056:1346" ph="/*...*/" />
+              <marker date="1507010340087" expanded="true" signature="1369:1643" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
