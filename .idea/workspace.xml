@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
+    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="disqus 기능 추가 Post">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" afterPath="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" />
     </list>
@@ -21,14 +21,14 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="281">
-                <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+              <first_editor relative-caret-position="251">
+                <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
                 <folding>
-                  <marker date="1507013162575" expanded="true" signature="802:1704" ph="..." />
-                  <marker date="1507013162575" expanded="true" signature="815:1087" ph="/**  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. ...*/" />
-                  <marker date="1507013162575" expanded="true" signature="1098:1388" ph="/*...*/" />
-                  <marker date="1507013162575" expanded="true" signature="1411:1685" ph="{...}" />
-                  <marker date="1507013162575" expanded="true" signature="1937:2021" ph="//..." />
+                  <marker date="1507013423557" expanded="true" signature="813:1715" ph="..." />
+                  <marker date="1507013423557" expanded="true" signature="826:1098" ph="/**  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. ...*/" />
+                  <marker date="1507013423557" expanded="true" signature="1109:1399" ph="/*...*/" />
+                  <marker date="1507013423557" expanded="true" signature="1422:1696" ph="{...}" />
+                  <marker date="1507013423557" expanded="true" signature="1948:2032" ph="//..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -201,7 +201,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506844585942</updated>
-      <workItem from="1506844587139" duration="26647000" />
+      <workItem from="1506844587139" duration="26909000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1506844684806</created>
@@ -462,11 +462,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507012831269</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="disqus 기능 추가 Post">
+      <created>1507013167805</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1507013167805</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26647000" />
+    <option name="totallyTimeSpent" value="26909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="71" y="23" width="1578" height="1177" extended-state="0" />
@@ -978,14 +985,14 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="281">
-            <caret line="38" column="9" lean-forward="false" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <first_editor relative-caret-position="251">
+            <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
             <folding>
-              <marker date="1507013162575" expanded="true" signature="802:1704" ph="..." />
-              <marker date="1507013162575" expanded="true" signature="815:1087" ph="/**  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. ...*/" />
-              <marker date="1507013162575" expanded="true" signature="1098:1388" ph="/*...*/" />
-              <marker date="1507013162575" expanded="true" signature="1411:1685" ph="{...}" />
-              <marker date="1507013162575" expanded="true" signature="1937:2021" ph="//..." />
+              <marker date="1507013423557" expanded="true" signature="813:1715" ph="..." />
+              <marker date="1507013423557" expanded="true" signature="826:1098" ph="/**  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. ...*/" />
+              <marker date="1507013423557" expanded="true" signature="1109:1399" ph="/*...*/" />
+              <marker date="1507013423557" expanded="true" signature="1422:1696" ph="{...}" />
+              <marker date="1507013423557" expanded="true" signature="1948:2032" ph="//..." />
             </folding>
           </first_editor>
           <second_editor />
