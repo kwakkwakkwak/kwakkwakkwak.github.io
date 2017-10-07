@@ -194,4 +194,7 @@ public class StudyController {
 ![2](/assets/images/jspForSpring/2.png)
 ![3](/assets/images/jspForSpring/3.png)
 
+* 꼭 이미지 처럼 한 src안에 모두 있어야 한다.
+![4](/assets/images/jspForSpring/4.png)
+
     

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/favicon.ico" afterPath="$PROJECT_DIR$/assets/favicon.ico" />
+    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="오류 정검">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/jspForSpring/4.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md" afterPath="$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +17,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="2017-10-01-Spring_Setting.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-10-01-Spring_Setting.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding>
+                  <marker date="1507362571379" expanded="true" signature="1123:2900" ph="..." />
+                  <marker date="1507362571379" expanded="true" signature="1462:1801" ph="..." />
+                  <marker date="1507362571379" expanded="true" signature="1866:2578" ph="..." />
+                  <marker date="1507362571379" expanded="true" signature="1911:2076" ph="..." />
+                  <marker date="1507362571379" expanded="true" signature="2178:2326" ph="..." />
+                  <marker date="1507362571379" expanded="true" signature="2419:2555" ph="..." />
+                  <marker date="1507362571379" expanded="true" signature="2617:2888" ph="..." />
+                  <marker date="1507362571379" expanded="true" signature="2632:2876" ph="..." />
+                  <marker date="1507362571379" expanded="true" signature="2648:2860" ph="..." />
+                  <marker date="1507362571379" expanded="true" signature="2729:2843" ph="..." />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-10-02-JSP_for_Spring.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="582">
+                <caret line="196" column="29" lean-forward="false" selection-start-line="196" selection-start-column="29" selection-end-line="196" selection-end-column="29" />
+                <folding>
+                  <marker date="1507363111865" expanded="true" signature="779:1583" ph="..." />
+                  <marker date="1507363111865" expanded="true" signature="1043:1428" ph="..." />
+                  <marker date="1507363111865" expanded="true" signature="1208:1368" ph="..." />
+                  <marker date="1507363111865" expanded="true" signature="1451:1571" ph="..." />
+                  <marker date="1507363111865" expanded="true" signature="1752:2754" ph="..." />
+                  <marker date="1507363111865" expanded="true" signature="2639:2745" ph="..." />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -41,9 +87,9 @@
         <option value="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" />
         <option value="$PROJECT_DIR$/_includes/_custom/header.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-02-Spring_Java_Annotation.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-01-Spring_Setting.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md" />
       </list>
     </option>
   </component>
@@ -54,8 +100,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="345" />
-    <option name="y" value="38" />
+    <option name="x" value="111" />
+    <option name="y" value="23" />
     <option name="width" value="1578" />
     <option name="height" value="1177" />
   </component>
@@ -88,7 +134,25 @@
             <path>
               <item name="kwakkwakkwak.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="kwakkwakkwak.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kwakkwakkwak.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kwakkwakkwak.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kwakkwakkwak.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kwakkwakkwak.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kwakkwakkwak.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kwakkwakkwak.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="jspForSpring" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -104,11 +168,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/jspForSpring" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets/images/disqus" />
       <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/assets/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images/disqus" />
@@ -140,7 +204,7 @@
       <option name="presentableId" value="Default" />
       <updated>1506844585942</updated>
       <workItem from="1506844587139" duration="29947000" />
-      <workItem from="1507362576138" duration="34000" />
+      <workItem from="1507362576138" duration="519000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1506844684806</created>
@@ -464,16 +528,24 @@
       <option name="project" value="LOCAL" />
       <updated>1507361933349</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="오류 정검">
+      <created>1507362612575</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1507362612575</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29981000" />
+    <option name="totallyTimeSpent" value="30466000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="345" y="38" width="1578" height="1177" extended-state="0" />
+    <frame x="111" y="23" width="1578" height="1177" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30378935" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30378935" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32994455" sideWeight="0.5022479" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32994455" sideWeight="0.4977521" order="1" side_tool="false" content_ui="tabs" />
@@ -524,7 +596,6 @@
     <entry file="file://$PROJECT_DIR$/_layouts/category.html" />
     <entry file="file://$PROJECT_DIR$/_layouts/archive.html" />
     <entry file="file://$PROJECT_DIR$/_layouts/post.html" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-12-HTML_구조.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-14-HTML_Markup_Tip.md" />
     <entry file="file://$PROJECT_DIR$/_includes/page.html" />
     <entry file="file://$PROJECT_DIR$/assets/images/disqus/1.png" />
@@ -590,12 +661,61 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/archives/index.html" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-Spring_Java_Annotation.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-01-Spring_Setting.md" />
     <entry file="file://$PROJECT_DIR$/assets/favicon.ico">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-12-HTML_구조.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-901">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-01-Spring_Setting.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1507362571379" expanded="true" signature="1123:2900" ph="..." />
+              <marker date="1507362571379" expanded="true" signature="1462:1801" ph="..." />
+              <marker date="1507362571379" expanded="true" signature="1866:2578" ph="..." />
+              <marker date="1507362571379" expanded="true" signature="1911:2076" ph="..." />
+              <marker date="1507362571379" expanded="true" signature="2178:2326" ph="..." />
+              <marker date="1507362571379" expanded="true" signature="2419:2555" ph="..." />
+              <marker date="1507362571379" expanded="true" signature="2617:2888" ph="..." />
+              <marker date="1507362571379" expanded="true" signature="2632:2876" ph="..." />
+              <marker date="1507362571379" expanded="true" signature="2648:2860" ph="..." />
+              <marker date="1507362571379" expanded="true" signature="2729:2843" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="582">
+            <caret line="196" column="29" lean-forward="false" selection-start-line="196" selection-start-column="29" selection-end-line="196" selection-end-column="29" />
+            <folding>
+              <marker date="1507363111865" expanded="true" signature="779:1583" ph="..." />
+              <marker date="1507363111865" expanded="true" signature="1043:1428" ph="..." />
+              <marker date="1507363111865" expanded="true" signature="1208:1368" ph="..." />
+              <marker date="1507363111865" expanded="true" signature="1451:1571" ph="..." />
+              <marker date="1507363111865" expanded="true" signature="1752:2754" ph="..." />
+              <marker date="1507363111865" expanded="true" signature="2639:2745" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
       </provider>
     </entry>
   </component>
