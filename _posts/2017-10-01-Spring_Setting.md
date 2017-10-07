@@ -44,7 +44,8 @@ comments : true
 * 모두 완료되면 pom.xml을 열어봅니다.
 ![9](/assets/images/springSetting/9.png)
 
-* 그리고 xml을 변경해줍니다. <주의!!> PROJECT_NAME을 잘설정 해줘야 합니다.
+* 그리고 xml을 변경해줍니다. <주의!!> `PROJECT_NAME` 을 잘설정 해줘야 합니다.
+
 ```xml
  <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">

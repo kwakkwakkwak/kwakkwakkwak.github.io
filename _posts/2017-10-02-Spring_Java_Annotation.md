@@ -162,7 +162,7 @@ public class QnABoardWrite implements Write{
 </beans>
 ```
 
-****
+**BoardCafe.java**
 ```java
 package part7;
 
@@ -360,6 +360,8 @@ public class BoardCafe implements Board {
 
 ## @PostConstruct & @PreDestory (part 10)
 
+
+**Context10.xml**
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
@@ -373,6 +375,7 @@ public class BoardCafe implements Board {
 </beans>
 ```
 
+**FreeBoardWrite.java**
 ```java
 package part10;
 

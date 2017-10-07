@@ -191,7 +191,7 @@ public class StudyController {
 ![1](/assets/images/jspForSpring/1.png)
 
 **showMessage.jsp**
-![1](/assets/images/jspForSpring/2.png)
-![1](/assets/images/jspForSpring/3.png)
+![2](/assets/images/jspForSpring/2.png)
+![3](/assets/images/jspForSpring/3.png)
 
     
