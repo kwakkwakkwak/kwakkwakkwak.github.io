@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-01-Spring_Setting.md" afterPath="$PROJECT_DIR$/_posts/2017-10-01-Spring_Setting.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md" afterPath="$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-02-Spring_Java_Annotation.md" afterPath="$PROJECT_DIR$/_posts/2017-10-02-Spring_Java_Annotation.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -210,7 +207,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506844585942</updated>
-      <workItem from="1506844587139" duration="29928000" />
+      <workItem from="1506844587139" duration="29947000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1506844684806</created>
@@ -527,11 +524,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507015797005</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="오류 정검">
+      <created>1507361933349</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1507361933349</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29928000" />
+    <option name="totallyTimeSpent" value="29947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="23" width="1578" height="1177" extended-state="0" />
@@ -577,7 +581,8 @@
     <MESSAGE value="disqus 위치 수정" />
     <MESSAGE value="disqus 기능 추가 Post" />
     <MESSAGE value="favicon 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="favicon 추가" />
+    <MESSAGE value="오류 정검" />
+    <option name="LAST_COMMIT_MESSAGE" value="오류 정검" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
