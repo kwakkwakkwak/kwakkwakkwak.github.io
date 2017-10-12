@@ -14,7 +14,7 @@ comments : true
 ---
 
 # intellij에서 Spring Setting
-
+˚
 ## maven을 포함한 프로젝트 생성
 
 * intellj Creare New Project를 클릭하고,
