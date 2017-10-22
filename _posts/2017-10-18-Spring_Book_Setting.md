@@ -17,7 +17,7 @@ comments : true
 
 _사용 예제는 [여기](https://github.com/kwakkwakkwak/spring_book_setting) 에서 확인 할 수 있습니다._
 
-# Maven project 생성 
+## Maven project 생성 
 
  ![2](/assets/images/SpringBookSetting/1.png)
  
@@ -39,7 +39,7 @@ _사용 예제는 [여기](https://github.com/kwakkwakkwak/spring_book_setting) 
  * 그럼 정말 깨끗한 `Maven Project`가 완성됩니다.
  
  
-# Spring Framework 추가
+## Spring Framework 추가
  
  * 프로젝트에서 오른쪽 클릭으로 열면,
  
@@ -283,7 +283,7 @@ _사용 예제는 [여기](https://github.com/kwakkwakkwak/spring_book_setting) 
  
  * 불필요한 xml을 정리하고 `web.xml`에서도 제거합니다. (아래 Test에서 자세히 하겠습니다.) 
  
- # Tomcat 설정
+ ## Tomcat 설정
  
  ![3](/assets/images/SpringBookSetting/14.png)
  
@@ -316,7 +316,7 @@ _사용 예제는 [여기](https://github.com/kwakkwakkwak/spring_book_setting) 
  *이제 서버를 실행 시킬수 있습니다.
  
  
- # Test 
+ ## Test 
  
  * 이제 개발환경이 제대로 설치가 되었는지 테스트를 할차례 입니다.
  
