@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-18-Spring_Book_Setting.md" afterPath="$PROJECT_DIR$/_posts/2017-10-18-Spring_Book_Setting.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" afterPath="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,12 +41,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-18-Spring_Book_Setting.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-10-18-Spring_Book_Setting.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-18-Spring_Book_Setting.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="217">
-                <caret line="316" column="2" lean-forward="false" selection-start-line="316" selection-start-column="2" selection-end-line="316" selection-end-column="2" />
+              <first_editor relative-caret-position="-598">
+                <caret line="327" column="10" lean-forward="true" selection-start-line="327" selection-start-column="10" selection-end-line="327" selection-end-column="10" />
                 <folding>
                   <marker date="1508659733055" expanded="true" signature="1362:8552" ph="..." />
                   <marker date="1508659733055" expanded="true" signature="1687:2096" ph="..." />
@@ -124,12 +124,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-03-disqus.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-10-03-disqus.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="630">
-                <caret line="49" column="4" lean-forward="false" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+              <first_editor relative-caret-position="364">
+                <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -192,9 +192,9 @@
         <option value="$PROJECT_DIR$/_posts/tutorial/2017-07-20-next-tutorial.md" />
         <option value="$PROJECT_DIR$/_posts/`2017-10-02-Spring_Web.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-01-Spring_Book-Setting.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-01-Spring_Setting.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-18-Spring_Book_Setting.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" />
       </list>
     </option>
   </component>
@@ -317,14 +317,7 @@
       <workItem from="1507624733555" duration="5763000" />
       <workItem from="1508113812285" duration="1218000" />
       <workItem from="1508321015802" duration="17668000" />
-      <workItem from="1508658745134" duration="649000" />
-    </task>
-    <task id="LOCAL-00014" summary="jsp for spring&#10;    -end">
-      <created>1506938901166</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1506938901166</updated>
+      <workItem from="1508658745134" duration="975000" />
     </task>
     <task id="LOCAL-00015" summary="jsp for spring&#10;    -end">
       <created>1506939072985</created>
@@ -662,11 +655,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508651440358</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="springbooksetting">
+      <created>1508659781586</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1508659781586</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59344000" />
+    <option name="totallyTimeSpent" value="59670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -718,7 +718,8 @@
     <MESSAGE value="Spring Book setting update" />
     <MESSAGE value=" disqus update" />
     <MESSAGE value="if Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="if Test" />
+    <MESSAGE value="springbooksetting" />
+    <option name="LAST_COMMIT_MESSAGE" value="springbooksetting" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1045,22 +1046,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="630">
-            <caret line="49" column="4" lean-forward="false" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-18-Spring_Book_Setting.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="217">
-            <caret line="316" column="2" lean-forward="false" selection-start-line="316" selection-start-column="2" selection-end-line="316" selection-end-column="2" />
+          <first_editor relative-caret-position="-598">
+            <caret line="327" column="10" lean-forward="true" selection-start-line="327" selection-start-column="10" selection-end-line="327" selection-end-column="10" />
             <folding>
               <marker date="1508659733055" expanded="true" signature="1362:8552" ph="..." />
               <marker date="1508659733055" expanded="true" signature="1687:2096" ph="..." />
@@ -1106,6 +1096,17 @@
               <marker date="1508659733055" expanded="true" signature="11235:12531" ph="..." />
               <marker date="1508659733055" expanded="true" signature="12317:12439" ph="..." />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="364">
+            <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
