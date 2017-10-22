@@ -24,8 +24,7 @@ _사용 예제는 [여기](https://github.com/kwakkwakkwak/spring_book_setting) 
  * Maven 프로젝트를 생성합니다.
  
  * 여기서 `archetpye`으로 쉽게 어느정도 구조화된 프로젝트를 만들수 있지만
- 
- 원하는 구조가 없으므로 기본 `maven`프로젝트로 만듭니다.
+    원하는 구조가 없으므로 기본 `maven`프로젝트로 만듭니다.
  
  ![3](/assets/images/SpringBookSetting/2.png)
  
