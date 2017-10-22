@@ -1,6 +1,7 @@
 ---
 title: Emoji Test
 tags:
+comments : false
 ---
 
 This is an emoji test. :smile: lol.

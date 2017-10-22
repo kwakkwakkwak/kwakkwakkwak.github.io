@@ -5,6 +5,7 @@ categories:
 - Foo
 tags:
 - Foo
+comments : false
 ---
 
 This post has a long title. Make sure the title displayed right.

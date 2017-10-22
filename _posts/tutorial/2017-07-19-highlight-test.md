@@ -3,6 +3,7 @@ title: Highlight Test
 categories:
  - Test
 tags:
+comments : false
 ---
 
 This is a highlight test.
