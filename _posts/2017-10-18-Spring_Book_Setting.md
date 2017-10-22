@@ -282,7 +282,7 @@ _사용 예제는 [여기](https://github.com/kwakkwakkwak/spring_book_setting) 
  
  * 불필요한 xml을 정리하고 `web.xml`에서도 제거합니다. (아래 Test에서 자세히 하겠습니다.) 
  
- ## Tomcat 설정
+## Tomcat 설정
  
  ![3](/assets/images/SpringBookSetting/14.png)
  
@@ -314,8 +314,8 @@ _사용 예제는 [여기](https://github.com/kwakkwakkwak/spring_book_setting) 
  
  *이제 서버를 실행 시킬수 있습니다.
  
+## 테스트
  
- ## Test 
  
  * 이제 개발환경이 제대로 설치가 되었는지 테스트를 할차례 입니다.
  
