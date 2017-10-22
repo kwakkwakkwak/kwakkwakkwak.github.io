@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment=" disqus update">
+    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-01-Spring_Setting.md" afterPath="$PROJECT_DIR$/_posts/2017-10-01-Spring_Setting.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" afterPath="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -129,8 +128,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="355">
-                <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+              <first_editor relative-caret-position="325">
+                <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -317,14 +316,7 @@
       <workItem from="1507594780845" duration="1229000" />
       <workItem from="1507624733555" duration="5763000" />
       <workItem from="1508113812285" duration="1218000" />
-      <workItem from="1508321015802" duration="16063000" />
-    </task>
-    <task id="LOCAL-00010" summary="java for spring">
-      <created>1506912405345</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1506912405345</updated>
+      <workItem from="1508321015802" duration="16327000" />
     </task>
     <task id="LOCAL-00011" summary="java for spring&#10;-end">
       <created>1506922045145</created>
@@ -662,11 +654,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508642467337</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="if Test">
+      <created>1508649935642</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1508649935642</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57090000" />
+    <option name="totallyTimeSpent" value="57354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -717,7 +716,8 @@
     <MESSAGE value="favicon 변경" />
     <MESSAGE value="Spring Book setting update" />
     <MESSAGE value=" disqus update" />
-    <option name="LAST_COMMIT_MESSAGE" value=" disqus update" />
+    <MESSAGE value="if Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="if Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1176,8 +1176,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="355">
-            <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <first_editor relative-caret-position="325">
+            <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
