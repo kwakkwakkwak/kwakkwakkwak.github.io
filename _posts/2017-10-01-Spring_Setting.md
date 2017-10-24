@@ -4,6 +4,7 @@ description: "intellij에서 Spring Setting"
 categories: 
  java 
  Spring
+ jsp
 tags: 
  java
  Spring
