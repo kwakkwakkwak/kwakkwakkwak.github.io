@@ -9,7 +9,7 @@ tags:
  RestController
  ResponseBody
  RequestBody
-date: 2017-10-03 
+date: 2017-10-24 
 comments : true
 ---
 
@@ -53,3 +53,11 @@ comments : true
    * 두 방식 모두 객체로 받는 방식은 `@RequestBody`
    
      * `@RequestBody` 는 JSON >> Object (역직렬화) 해서 값으로 사용
+     
+  *  `@ResponseBody` 와 `@RequestBody` 의 비교
+  
+ | \ | @ResponseBody  | @RequestBody  |
+ | --- | --- | --- |
+ | Casting | 역직렬화(to JSON) | 직렬화(to Object) |
+ | 사용 |  반환 타입 | 매개변수 |
+ 
