@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
+    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="java Annotation Update">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-10-26-[Markdown]문법.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" afterPath="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,106 +17,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-10-01-Spring_Setting.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-10-01-Spring_Setting.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-                <folding>
-                  <marker date="1508662778608" expanded="true" signature="1128:2905" ph="..." />
-                  <marker date="1508662778608" expanded="true" signature="1467:1806" ph="..." />
-                  <marker date="1508662778608" expanded="true" signature="1871:2583" ph="..." />
-                  <marker date="1508662778608" expanded="true" signature="1916:2081" ph="..." />
-                  <marker date="1508662778608" expanded="true" signature="2183:2331" ph="..." />
-                  <marker date="1508662778608" expanded="true" signature="2424:2560" ph="..." />
-                  <marker date="1508662778608" expanded="true" signature="2622:2893" ph="..." />
-                  <marker date="1508662778608" expanded="true" signature="2637:2881" ph="..." />
-                  <marker date="1508662778608" expanded="true" signature="2653:2865" ph="..." />
-                  <marker date="1508662778608" expanded="true" signature="2734:2848" ph="..." />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2017-10-24-[Anotation]Rest.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-24-[Anotation]Rest.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="746">
                 <caret line="60" column="42" lean-forward="false" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-10-18-Spring_Book_Setting.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-10-18-Spring_Book_Setting.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="4905">
-                <caret line="327" column="10" lean-forward="false" selection-start-line="327" selection-start-column="10" selection-end-line="327" selection-end-column="10" />
-                <folding>
-                  <marker date="1508659733055" expanded="true" signature="1362:8552" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="1687:2096" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="2115:7595" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="2160:2638" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="2350:2616" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="2445:2590" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="2659:2845" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="2892:3058" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="3105:3267" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="3288:3490" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="3511:3712" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="3733:4593" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="3876:4536" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="3904:4033" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="4061:4188" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="4216:4351" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="4379:4510" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="4640:4789" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="4836:4996" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="5017:5204" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="5225:5369" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="5413:5583" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="5598:5687" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="5710:5865" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="5958:6105" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="6205:6359" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="6494:6678" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="6699:6883" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="7401:7574" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="7607:8541" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="7626:8528" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="7647:8186" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="7843:8164" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="8207:8509" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="8392:8487" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="9971:11024" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="10207:10353" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="10369:10482" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="10499:10876" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="10660:10814" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="10899:11010" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="11235:12531" ph="..." />
-                  <marker date="1508659733055" expanded="true" signature="12317:12439" ph="..." />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="`2017-10-18-Spring_Book_part2.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/`2017-10-18-Spring_Book_part2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -134,19 +40,6 @@
                   <marker date="1508928168258" expanded="true" signature="1040:1280" ph="..." />
                   <marker date="1508928168258" expanded="true" signature="1076:1262" ph="..." />
                 </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="`2017-10-02-Spring_Web.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/`2017-10-02-Spring_Web.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2385">
-                <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
-                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -190,12 +83,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-02-16-Mathjax-with-jekyll.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/tutorial/2014-02-16-Mathjax-with-jekyll.md">
+      <file leaf-file-name="2017-10-03-disqus.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="585">
-                <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="43" selection-end-column="18" />
+              <first_editor relative-caret-position="269">
+                <caret line="34" column="61" lean-forward="false" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -203,12 +96,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-03-disqus.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
+      <file leaf-file-name="2017-10-26-[Markdown]문법.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-[Markdown]문법.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="269">
-                <caret line="34" column="61" lean-forward="false" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2013-12-25-excerpts.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-25-excerpts.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2013-12-24-tags.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-tags.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2013-12-24-long-title.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-long-title.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2013-12-24-link-post.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-link-post.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -276,6 +221,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-10-24-[Anotation]Rest.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-02-Spring_Java_Annotation.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-26-[Markdown]문법.md" />
       </list>
     </option>
   </component>
@@ -352,19 +298,19 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets" />
-      <recent name="$PROJECT_DIR$/assets/images/disqus" />
-      <recent name="$PROJECT_DIR$/_posts/tutorial" />
-      <recent name="$PROJECT_DIR$/assets/images/jspForSpring" />
-      <recent name="$PROJECT_DIR$/assets/images/springSetting" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/images/SpringBookSetting" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/assets/images/springBookPart1" />
       <recent name="$PROJECT_DIR$/assets/images/springWeb2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/images/disqus" />
+      <recent name="$PROJECT_DIR$/_posts/tutorial" />
+      <recent name="$PROJECT_DIR$/assets/images/jspForSpring" />
+      <recent name="$PROJECT_DIR$/assets/images/springSetting" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -402,14 +348,7 @@
       <workItem from="1508658745134" duration="2504000" />
       <workItem from="1508807903095" duration="372000" />
       <workItem from="1508808291443" duration="3750000" />
-      <workItem from="1508918026199" duration="1861000" />
-    </task>
-    <task id="LOCAL-00019" summary="jsp for spring update">
-      <created>1507007327289</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1507007327289</updated>
+      <workItem from="1508918026199" duration="2144000" />
     </task>
     <task id="LOCAL-00020" summary="jsp for spring update">
       <created>1507007377658</created>
@@ -747,11 +686,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508928192221</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="java Annotation Update">
+      <created>1508979512389</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1508979512389</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67182000" />
+    <option name="totallyTimeSpent" value="67465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="1680" height="1027" extended-state="0" />
@@ -814,7 +760,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/images/loading.gif" />
     <entry file="file://$PROJECT_DIR$/_includes/_blocks/page_class.html" />
     <entry file="file://$PROJECT_DIR$/_includes/_blocks/sidebar.html" />
     <entry file="file://$PROJECT_DIR$/_includes/_blocks/title.html" />
@@ -917,36 +862,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-link-post.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-long-title.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-tags.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-中文測試.md" />
     <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-日本語テスト.md" />
     <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-25-block.md">
@@ -954,16 +869,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
             <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-25-excerpts.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
@@ -1222,6 +1127,61 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="269">
             <caret line="34" column="61" lean-forward="false" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-25-excerpts.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-tags.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-long-title.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/tutorial/2013-12-24-link-post.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-[Markdown]문법.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
