@@ -1,31 +1,29 @@
 ---
-title: "Spring Java Annotation"
+title: "[Annotation] Spring 기본"
 description: "Spring java Annotation 종류와 사용법"
 categories: 
  java 
  Spring
 tags: 
- java
- Spring
- intellij
+  @Autowired
+  @Qualifier
 date: 2017-10-02 
 comments : true
 ---
 
-## @Autowired (예제 part5,6)
+# @Autowired 
 
-* 생성자와 setter 생략
+* 생성자에서 setter 의 생략
+
+# @Qualifier 
+
+* Annotation 을 이용한 자동 설정제한
+    * 설정한 것만 쓸 수 있다.
 
 
-## @Qualifier (예제 part7)
+# @Resource 
 
-* Annotation을 이용한 자동 설정제한
-
-
-
-## @Resource (part 8)
-
-* @Autowired, @Qulifier를 @Resource 로 변경
+* `@Autowired` , `@Qualifier` 를 `@Resource` 로 변경
 
 
 
@@ -38,11 +36,11 @@ comments : true
  | 지원 |  Spring Framework | Spring Framework 2.5.* |
  | 입력  Parameter | 여러개 | 1 개 |
  
-## @Component (part 9)
+# @Component
 
 * `dispatcher-servlet` 파일에 < context:component-scan> 을 추가해서 간단하게 만들고 Bean에 객체를 검색해서 주입한다.
 
-## @PostConstruct & @PreDestory (part 10)
+# @PostConstruct & @PreDestory 
 
  * `dispatcher-servlet` 파일에 < context:annotation-config/> 해야 사용가능하다.
 
@@ -51,11 +49,11 @@ comments : true
  * @PreDestory는 객체가 파괴되기 전에 실행된다. 즉, 객체가 사라지기 직전에 실행된다.
  <br> **(자주 사용되지 않는다.)**
 
-## AOP
+# AOP
 
 * pom.xml에 AOP 관련 라이브러리를 추가 한다.
 
-### AOP - XML 
+## AOP - XML 
 
 **XML에서 AOP**
 ```xml
@@ -69,11 +67,11 @@ comments : true
 
 **java에서 AOP Method**
 ```java
-public Object trace(ProceedingJoinPoint joinPoint)
+public Object trace(ProceedingJoinPoint joinPoint){}
 ```
-* Method 
+* Method 정의 
 
-### AOP - Annotation 
+## AOP - Annotation 
 ```java
 @Component
 @Aspect
@@ -98,5 +96,5 @@ public class Test {
 
      * @Around("메소드") 형태로 안에 메소드에 아래내용을 넣겠다. 라고 선언을 한다.
      
-     * @Around("execution(패키지 메소드(반환타입, 메소드명, 매개변수))") 형태로 @PointCut 를 생략 한다.
+     * @Around("execution(패키지 메소드(반환타입, 메소드명, 매개변수))") 형태로 `@PointCut` 를 생략 한다.
      

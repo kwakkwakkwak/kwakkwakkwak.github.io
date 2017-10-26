@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="java Annotation Update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-10-26-[Markdown]문법.md" />
+    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-10-02-Spring_Java_Annotation.md" afterPath="$PROJECT_DIR$/_posts/2017-10-02-[Annotataion] spring.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -30,15 +30,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-02-Spring_Java_Annotation.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-Spring_Java_Annotation.md">
+      <file leaf-file-name="2017-10-02-[Annotataion] spring.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-[Annotataion] spring.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="626">
-                <caret line="88" column="10" lean-forward="true" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
+              <first_editor relative-caret-position="468">
+                <caret line="75" column="10" lean-forward="true" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
                 <folding>
-                  <marker date="1508928168258" expanded="true" signature="1040:1280" ph="..." />
-                  <marker date="1508928168258" expanded="true" signature="1076:1262" ph="..." />
+                  <marker date="1508980169403" expanded="true" signature="1019:1259" ph="..." />
+                  <marker date="1508980169403" expanded="true" signature="1055:1241" ph="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -96,12 +96,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-26-[Markdown]문법.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-10-26-[Markdown]문법.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-[Markdown]문법.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -222,6 +222,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-10-02-Spring_Java_Annotation.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-26-[Markdown]문법.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-02-[Annotataion] spring.md" />
       </list>
     </option>
   </component>
@@ -348,14 +349,7 @@
       <workItem from="1508658745134" duration="2504000" />
       <workItem from="1508807903095" duration="372000" />
       <workItem from="1508808291443" duration="3750000" />
-      <workItem from="1508918026199" duration="2144000" />
-    </task>
-    <task id="LOCAL-00020" summary="jsp for spring update">
-      <created>1507007377658</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1507007377658</updated>
+      <workItem from="1508918026199" duration="2525000" />
     </task>
     <task id="LOCAL-00021" summary="jsp for spring update">
       <created>1507008173913</created>
@@ -693,11 +687,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508979512389</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="java Annotation Update">
+      <created>1508979795094</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1508979795095</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67465000" />
+    <option name="totallyTimeSpent" value="67846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="1680" height="1027" extended-state="0" />
@@ -1108,20 +1109,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-Spring_Java_Annotation.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="626">
-            <caret line="88" column="10" lean-forward="true" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
-            <folding>
-              <marker date="1508928168258" expanded="true" signature="1040:1280" ph="..." />
-              <marker date="1508928168258" expanded="true" signature="1076:1262" ph="..." />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-disqus.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1180,9 +1167,23 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-[Markdown]문법.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-[Annotataion] spring.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="468">
+            <caret line="75" column="10" lean-forward="true" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+            <folding>
+              <marker date="1508980169403" expanded="true" signature="1019:1259" ph="..." />
+              <marker date="1508980169403" expanded="true" signature="1055:1241" ph="..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
