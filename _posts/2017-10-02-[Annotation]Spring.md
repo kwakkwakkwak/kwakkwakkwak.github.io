@@ -5,8 +5,14 @@ categories:
  java 
  Spring
 tags: 
-  @Autowired
-  @Qualifier
+  Autowired
+  Qualifier
+  Resource
+  Component
+  PostConstruct
+  AOP
+  Pointcut
+  Around
 date: 2017-10-02 
 comments : true
 ---

@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-09-12-HTML_구조.md" afterPath="$PROJECT_DIR$/_posts/2017-09-12-[HTML]구조.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-09-14-HTML_Markup_Tip.md" afterPath="$PROJECT_DIR$/_posts/2017-09-14-[HTML]Markup_Tip.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-10-01-Spring_Setting.md" afterPath="$PROJECT_DIR$/_posts/2017-10-01-[Spring]Setting.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-10-02-[Annotataion] spring.md" afterPath="$PROJECT_DIR$/_posts/2017-10-02-[Annotataion]Spring.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" afterPath="$PROJECT_DIR$/_posts/2017-10-03-[Disques]Setting.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-10-18-Spring_Book_Setting.md" afterPath="$PROJECT_DIR$/_posts/2017-10-18-[Spring]Book_Setting.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-10-24-[Anotation]Rest.md" afterPath="$PROJECT_DIR$/_posts/2017-10-24-[Spring]Rest.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-10-02-[Annotataion]Spring.md" afterPath="$PROJECT_DIR$/_posts/2017-10-02-[Annotation]Spring.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,7 +22,61 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="2017-10-02-[Annotation]Spring.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-[Annotation]Spring.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="57">
+                <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+                <folding>
+                  <marker date="1509689562689" expanded="true" signature="1082:1322" ph="..." />
+                  <marker date="1509689562689" expanded="true" signature="1118:1304" ph="..." />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-10-18-[Spring]Book_Setting.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-10-18-[Spring]Book_Setting.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="19">
+                <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-10-01-[Spring]Setting.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-10-01-[Spring]Setting.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="19">
+                <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+                <folding>
+                  <marker date="1509672098322" expanded="true" signature="1130:2907" ph="..." />
+                  <marker date="1509672098322" expanded="true" signature="1469:1808" ph="..." />
+                  <marker date="1509672098322" expanded="true" signature="1873:2585" ph="..." />
+                  <marker date="1509672098322" expanded="true" signature="1918:2083" ph="..." />
+                  <marker date="1509672098322" expanded="true" signature="2185:2333" ph="..." />
+                  <marker date="1509672098322" expanded="true" signature="2426:2562" ph="..." />
+                  <marker date="1509672098322" expanded="true" signature="2624:2895" ph="..." />
+                  <marker date="1509672098322" expanded="true" signature="2639:2883" ph="..." />
+                  <marker date="1509672098322" expanded="true" signature="2655:2867" ph="..." />
+                  <marker date="1509672098322" expanded="true" signature="2736:2850" ph="..." />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,7 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2017-10-02-Spring_JSP.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-12-HTML_구조.md" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_posts/2017-09-14-HTML_Markup_Tip.md" />
@@ -111,6 +158,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-10-03-[Disques]Setting.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-01-[Spring]Setting.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-12-[HTML]구조.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-02-[Annotataion]Spring.md" />
       </list>
     </option>
   </component>
@@ -120,7 +168,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
@@ -242,14 +290,7 @@
       <workItem from="1509065453759" duration="1634000" />
       <workItem from="1509522879543" duration="718000" />
       <workItem from="1509667831531" duration="2287000" />
-      <workItem from="1509671439798" duration="676000" />
-    </task>
-    <task id="LOCAL-00025" summary="disqus 기능 추가 Post">
-      <created>1507010523536</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1507010523536</updated>
+      <workItem from="1509671439798" duration="1683000" />
     </task>
     <task id="LOCAL-00026" summary="disqus 기능 추가 Post">
       <created>1507010655016</created>
@@ -587,22 +628,30 @@
       <option name="project" value="LOCAL" />
       <updated>1509671702036</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Post structure Update">
+      <created>1509672150510</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1509672150510</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73364000" />
+    <option name="totallyTimeSpent" value="74371000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25979507" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25979507" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27682403" sideWeight="0.5022479" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286026" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286026" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -622,7 +671,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="3" />
     <MESSAGE value="4" />
@@ -647,7 +695,8 @@
     <MESSAGE value="RestController update" />
     <MESSAGE value="java Annotation Update" />
     <MESSAGE value="javascript cardGame" />
-    <option name="LAST_COMMIT_MESSAGE" value="javascript cardGame" />
+    <MESSAGE value="Post structure Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Post structure Update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1005,37 +1054,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-18-[Spring]Book_Setting.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-03-[Disques]Setting.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="19">
             <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
             <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-[Annotataion]Spring.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-            <folding>
-              <marker date="1509172313176" expanded="true" signature="1019:1259" ph="..." />
-              <marker date="1509172313176" expanded="true" signature="1055:1241" ph="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1074,6 +1098,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-18-[Spring]Book_Setting.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-01-[Spring]Setting.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1090,6 +1125,20 @@
               <marker date="1509672098322" expanded="true" signature="2639:2883" ph="..." />
               <marker date="1509672098322" expanded="true" signature="2655:2867" ph="..." />
               <marker date="1509672098322" expanded="true" signature="2736:2850" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-[Annotation]Spring.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <folding>
+              <marker date="1509689562689" expanded="true" signature="1082:1322" ph="..." />
+              <marker date="1509689562689" expanded="true" signature="1118:1304" ph="..." />
             </folding>
           </first_editor>
           <second_editor />
