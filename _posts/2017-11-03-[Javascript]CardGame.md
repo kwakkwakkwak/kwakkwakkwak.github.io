@@ -1,6 +1,6 @@
 ---
-title: [javascript]CardGame
-description: javascript 로 짜는 간단한 카드게임
+title : "[javascript]CardGame"
+description: "javascript 로 짜는 간단한 카드게임"
 categories: javascript
 tags: javascript CardGame 
 date: 2017-11-03 
