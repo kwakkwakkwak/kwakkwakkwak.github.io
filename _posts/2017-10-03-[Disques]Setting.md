@@ -1,5 +1,5 @@
 ---
-title: "Disqus"
+title: "[Disqus] Setting"
 description: "disqus는 이렇게 추가합니다."
 categories: 
  disqus

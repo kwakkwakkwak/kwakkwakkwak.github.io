@@ -1,5 +1,5 @@
 ---
-title: "Spring setting intellij"
+title: "[Spring] Setting intellij"
 description: "intellij에서 Spring Setting"
 categories: 
  java 

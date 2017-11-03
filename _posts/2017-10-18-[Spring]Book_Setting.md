@@ -1,5 +1,5 @@
 ---
-title: "Spring_Book_Setting"
+title: "[Spring] Book Setting"
 description: "JSP for Spring Framework & MVC Pattern"
 categories: 
  JSP 
