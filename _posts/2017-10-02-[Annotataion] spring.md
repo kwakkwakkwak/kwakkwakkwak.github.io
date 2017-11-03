@@ -69,7 +69,7 @@ comments : true
 ```java
 public Object trace(ProceedingJoinPoint joinPoint){}
 ```
-* Method 정의 
+* Metho-=
 
 ## AOP - Annotation 
 ```java

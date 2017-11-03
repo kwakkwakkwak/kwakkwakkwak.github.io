@@ -14,7 +14,7 @@ comments : true
 ---
 
 # Rest 방식 접근의 이해
-
+ 
 ## _`Rest`_ 란?
     
  * URI 정보의 지원
