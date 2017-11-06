@@ -23,6 +23,8 @@ comments : true
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
@@ -65,7 +67,6 @@ comments : true
     var btn_hide = document.getElementById('hide');
     var btn_show = document.getElementById('show');
     var btn_shuffle = document.getElementById("shuffle");
-
     // 모든 카드 뒤집기
     btn_turn.onclick = function () {
         if(turnAll){ // 카드가 뒷면이면...
@@ -115,6 +116,10 @@ comments : true
             temp = cards[index].className;
             cards[index].className = cards[i].className;
             cards[i].className = temp;
+
+            temp = cards[index].name;
+            cards[index].name = cards[i].name;
+            cards[i].name = temp;
         }
 //        카드를 보입니다. 카드를 뒤집어서 섞은 후에 확인 할려고 나중에  css추가 예정
 //        for(var i = 0 ; i < cards.length ; i++) {
@@ -179,4 +184,10 @@ comments : true
 </html>
 
 ```
+
+# 어려웠던 점
+
+* `setTimeout`을 쓸때, 연속으로 3개를 누르면 2번째 값이 누락되는 현상이 있었다.
+
+    > 해결 그래서 gaming 이라는 변수를 선언해서 해결했다.
 
