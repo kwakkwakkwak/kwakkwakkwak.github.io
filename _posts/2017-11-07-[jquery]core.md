@@ -1,9 +1,9 @@
 ---
-title: "[jquery] 핵심 내용"
-description: "javascript 의 핵심"
-    categories: javascript
-tags: javascript jquery core selector event DOM
-date: 2017-11-06
+title : "[jquery] 핵심 내용"
+description : "javascript 의 핵심"
+categories : javascript
+tags : javascript jquery core selector event DOM
+date : 2017-11-06
 comments : true
 ---
 
