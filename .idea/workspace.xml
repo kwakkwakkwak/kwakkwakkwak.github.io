@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-06-[jquery]checkbox_컨트롤.md" afterPath="$PROJECT_DIR$/_posts/2017-11-06-[jquery]checkbox_컨트롤.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/src/jquery/checkbox.html" afterPath="$PROJECT_DIR$/assets/src/jquery/checkbox.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,12 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-11-06-[jquery]checkbox_컨트롤.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-11-06-[jquery]checkbox_컨트롤.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-06-[jquery]checkbox_컨트롤.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="412">
-                <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+              <first_editor relative-caret-position="-700">
+                <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
                 <folding>
                   <marker date="1509966635592" expanded="true" signature="304:2487" ph="..." />
                   <marker date="1509966635592" expanded="true" signature="311:2023" ph="..." />
@@ -69,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="checkbox.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="checkbox.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/src/jquery/checkbox.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+            <state relative-caret-position="114">
+              <caret line="6" column="71" lean-forward="false" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
               <folding />
             </state>
           </provider>
@@ -169,7 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring_2.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-02-JSP_for_Spring.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-11-Spring_Web2.md" />
         <option value="$PROJECT_DIR$/_posts/`2017-10-11-Error_Note.md" />
@@ -220,6 +219,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-11-06-[jquery]checkbox활용.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-03-[Javascript]CardGame.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-06-[jquery]checkbox_컨트롤.md" />
+        <option value="$PROJECT_DIR$/assets/src/jquery/checkbox.html" />
       </list>
     </option>
   </component>
@@ -410,14 +410,7 @@
       <workItem from="1509667831531" duration="2287000" />
       <workItem from="1509671439798" duration="2752000" />
       <workItem from="1509772790431" duration="7485000" />
-      <workItem from="1509891812423" duration="8686000" />
-    </task>
-    <task id="LOCAL-00029" summary="disqus 기능 추가 Post">
-      <created>1507011222045</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1507011222045</updated>
+      <workItem from="1509891812423" duration="9653000" />
     </task>
     <task id="LOCAL-00030" summary="disqus 기능 추가 Post">
       <created>1507011374474</created>
@@ -755,11 +748,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509966472292</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="jquery-checkbox">
+      <created>1509966647580</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1509966647580</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91611000" />
+    <option name="totallyTimeSpent" value="92578000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1236,14 +1236,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/src/jquery/checkbox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/`2017-11-04-[Node]Node.js.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1311,8 +1303,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-06-[jquery]checkbox_컨트롤.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="412">
-            <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <first_editor relative-caret-position="-700">
+            <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
             <folding>
               <marker date="1509966635592" expanded="true" signature="304:2487" ph="..." />
               <marker date="1509966635592" expanded="true" signature="311:2023" ph="..." />
@@ -1333,6 +1325,14 @@
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/jquery/checkbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="71" lean-forward="false" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
+          <folding />
         </state>
       </provider>
     </entry>
