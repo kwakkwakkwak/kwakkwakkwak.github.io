@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-11-06-[jquery]core.md" afterPath="$PROJECT_DIR$/_posts/2017-11-07-[jquery]core.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-07-[jquery]core.md" afterPath="$PROJECT_DIR$/_posts/2017-11-07-[jquery]core.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-06-[jquery]checkbox_컨트롤.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-700">
+              <first_editor relative-caret-position="475">
                 <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
                 <folding>
                   <marker date="1509966635592" expanded="true" signature="304:2487" ph="..." />
@@ -60,8 +60,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-07-[jquery]core.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="390">
-                <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <first_editor relative-caret-position="19">
+                <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -103,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2017-10-11-Spring_Web2.md" />
         <option value="$PROJECT_DIR$/_posts/`2017-10-11-Error_Note.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-18-Spring_Book_part2.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-18-Spring_Book_part1.md" />
@@ -154,6 +153,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-11-06-[jquery]checkbox_컨트롤.md" />
         <option value="$PROJECT_DIR$/assets/src/jquery/checkbox.html" />
         <option value="$PROJECT_DIR$/_posts/`2017-11-06-[jquery]selector.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-07-[jquery]core.md" />
       </list>
     </option>
   </component>
@@ -322,14 +322,7 @@
       <workItem from="1509667831531" duration="2287000" />
       <workItem from="1509671439798" duration="2752000" />
       <workItem from="1509772790431" duration="7485000" />
-      <workItem from="1509891812423" duration="15600000" />
-    </task>
-    <task id="LOCAL-00032" summary="disqus 기능 추가 Post">
-      <created>1507011684097</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1507011684097</updated>
+      <workItem from="1509891812423" duration="15654000" />
     </task>
     <task id="LOCAL-00033" summary="disqus 기능 추가 Post">
       <created>1507011764277</created>
@@ -667,11 +660,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510034733554</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="jquery-core">
+      <created>1510034754891</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1510034754891</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98525000" />
+    <option name="totallyTimeSpent" value="98579000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1143,34 +1143,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-06-[jquery]checkbox_컨트롤.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-700">
-            <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
-            <folding>
-              <marker date="1509966635592" expanded="true" signature="304:2487" ph="..." />
-              <marker date="1509966635592" expanded="true" signature="311:2023" ph="..." />
-              <marker date="1509966635592" expanded="true" signature="449:2015" ph="..." />
-              <marker date="1509966635592" expanded="true" signature="541:891" ph="{...}" />
-              <marker date="1509966635592" expanded="true" signature="648:842" ph="{...}" />
-              <marker date="1509966635592" expanded="true" signature="708:828" ph="{...}" />
-              <marker date="1509966635592" expanded="true" signature="935:1083" ph="{...}" />
-              <marker date="1509966635592" expanded="true" signature="1129:1349" ph="{...}" />
-              <marker date="1509966635592" expanded="true" signature="1188:1298" ph="{...}" />
-              <marker date="1509966635592" expanded="true" signature="1389:2000" ph="{...}" />
-              <marker date="1509966635592" expanded="true" signature="1504:1597" ph="{...}" />
-              <marker date="1509966635592" expanded="true" signature="1682:1684" ph="{...}" />
-              <marker date="1509966635592" expanded="true" signature="1682:1794" ph="{...}" />
-              <marker date="1509966635592" expanded="true" signature="1878:1988" ph="{...}" />
-              <marker date="1509966635592" expanded="true" signature="1972:1988" ph="{...}" />
-              <marker date="1509966635592" expanded="true" signature="2030:2478" ph="..." />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/_macro/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
@@ -1240,11 +1212,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-06-[jquery]checkbox_컨트롤.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="475">
+            <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+            <folding>
+              <marker date="1509966635592" expanded="true" signature="304:2487" ph="..." />
+              <marker date="1509966635592" expanded="true" signature="311:2023" ph="..." />
+              <marker date="1509966635592" expanded="true" signature="449:2015" ph="..." />
+              <marker date="1509966635592" expanded="true" signature="541:891" ph="{...}" />
+              <marker date="1509966635592" expanded="true" signature="648:842" ph="{...}" />
+              <marker date="1509966635592" expanded="true" signature="708:828" ph="{...}" />
+              <marker date="1509966635592" expanded="true" signature="935:1083" ph="{...}" />
+              <marker date="1509966635592" expanded="true" signature="1129:1349" ph="{...}" />
+              <marker date="1509966635592" expanded="true" signature="1188:1298" ph="{...}" />
+              <marker date="1509966635592" expanded="true" signature="1389:2000" ph="{...}" />
+              <marker date="1509966635592" expanded="true" signature="1504:1597" ph="{...}" />
+              <marker date="1509966635592" expanded="true" signature="1682:1684" ph="{...}" />
+              <marker date="1509966635592" expanded="true" signature="1682:1794" ph="{...}" />
+              <marker date="1509966635592" expanded="true" signature="1878:1988" ph="{...}" />
+              <marker date="1509966635592" expanded="true" signature="1972:1988" ph="{...}" />
+              <marker date="1509966635592" expanded="true" signature="2030:2478" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-07-[jquery]core.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <first_editor relative-caret-position="19">
+            <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
             <folding />
           </first_editor>
           <second_editor />
