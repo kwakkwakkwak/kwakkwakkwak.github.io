@@ -30,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-06-[jquery]checkbox_컨트롤.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="475">
-                <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+              <first_editor relative-caret-position="497">
+                <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
                 <folding>
                   <marker date="1509966635592" expanded="true" signature="304:2487" ph="..." />
                   <marker date="1509966635592" expanded="true" signature="311:2023" ph="..." />
@@ -50,19 +50,6 @@
                   <marker date="1509966635592" expanded="true" signature="1972:1988" ph="{...}" />
                   <marker date="1509966635592" expanded="true" signature="2030:2478" ph="..." />
                 </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-11-07-[jquery]core.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-11-07-[jquery]core.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="152">
-                <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -131,6 +118,32 @@
                   <marker date="1509966375235" expanded="true" signature="5675:5813" ph="{...}" />
                   <marker date="1509966375235" expanded="true" signature="5814:5872" ph="//..." />
                 </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="`2017-10-02-Spring_Web.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/`2017-10-02-Spring_Web.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="529">
+                <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-11-07-[jquery]core.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-11-07-[jquery]core.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="401">
+                <caret line="88" column="3" lean-forward="true" selection-start-line="88" selection-start-column="3" selection-end-line="88" selection-end-column="3" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -238,7 +251,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1920" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
@@ -390,14 +403,7 @@
       <workItem from="1509667831531" duration="2287000" />
       <workItem from="1509671439798" duration="2752000" />
       <workItem from="1509772790431" duration="7485000" />
-      <workItem from="1509891812423" duration="17466000" />
-    </task>
-    <task id="LOCAL-00034" summary="disqus 기능 추가 Post">
-      <created>1507011978416</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1507011978416</updated>
+      <workItem from="1509891812423" duration="21107000" />
     </task>
     <task id="LOCAL-00035" summary="disqus 기능 추가 Post">
       <created>1507012492131</created>
@@ -735,11 +741,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510034809064</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="jquery-core">
+      <created>1510038420420</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1510038420420</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100391000" />
+    <option name="totallyTimeSpent" value="104032000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -751,7 +764,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="23" width="1920" height="1057" extended-state="0" />
+    <frame x="-1920" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13006845" sideWeight="0.4937107" order="0" side_tool="false" content_ui="combo" />
@@ -1000,17 +1013,6 @@
               <marker date="1509772774464" expanded="true" signature="1082:1322" ph="..." />
               <marker date="1509772774464" expanded="true" signature="1118:1304" ph="..." />
             </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/`2017-10-02-Spring_Web.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="529">
-            <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1294,8 +1296,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-06-[jquery]checkbox_컨트롤.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="475">
-            <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <first_editor relative-caret-position="497">
+            <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
             <folding>
               <marker date="1509966635592" expanded="true" signature="304:2487" ph="..." />
               <marker date="1509966635592" expanded="true" signature="311:2023" ph="..." />
@@ -1319,11 +1321,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/`2017-10-02-Spring_Web.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="529">
+            <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-07-[jquery]core.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <first_editor relative-caret-position="401">
+            <caret line="88" column="3" lean-forward="true" selection-start-line="88" selection-start-column="3" selection-end-line="88" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />

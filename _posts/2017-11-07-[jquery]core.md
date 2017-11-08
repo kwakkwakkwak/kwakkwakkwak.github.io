@@ -21,9 +21,17 @@ comments : true
  
 # 검색 & 탐색 
 
- * 체이닝 용도, `.filter()` / `.find()` 선택자에 context(this)를 넣어서 filter,find 와 같이 한정가능
+ * 체이닝 용도, `.filter()` / `.find()` : 찾은 노드중에 특정노드 찾기 / 찾은 노드의 자손중에 특정노드 찾기
  
- * `.is()`,`.has()` / `.eq()`,`.not()` / `.first()`, `.last()` / `.add()`, `.end()` / `get()`
+ * `.is()` / `.has()` : 찾는 노드가 맞는지 (return boolean)  / 찾은 노드가 자손으로 가지고 있는지 (return boolean)
+  
+ * `.eq()` / `.not()` : n번째 노드 접근 / 일치하는 노드 제거
+  
+ * `.first()` / `.last()` :  첫번째 노드 접근 / 마지막 노드 접근
+ 
+ * `.add()` / `.end()` :  노드 추가 / 이전 선택 노드로
+ 
+ * `get()` : js DOM 객체 찾기
  
  
 # 작업
@@ -77,6 +85,8 @@ comments : true
 # Event
 
 * eventName : 
+
+---
 > UI 
 >>`blur` `focus` `change` `focusin` `focusout`
 
@@ -95,7 +105,7 @@ comments : true
 
 > browser
 >> `scroll` `error` `resize`
-
+---
 ## on
 
 * event가 발생할때 eventListener 실행
