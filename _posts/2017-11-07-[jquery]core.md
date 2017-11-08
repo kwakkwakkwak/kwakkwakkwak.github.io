@@ -106,6 +106,7 @@ comments : true
 > browser
 >> `scroll` `error` `resize`
 ---
+
 ## on
 
 * event가 발생할때 eventListener 실행
