@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-11-06-[jquery]checkbox_컨트롤.md" afterPath="$PROJECT_DIR$/_posts/2017-11-06-[Jquery]checkbox_컨트롤.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-11-07-[jquery]core.md" afterPath="$PROJECT_DIR$/_posts/2017-11-07-[Jquery]core.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/`2017-10-02-Spring_Web.md" afterPath="$PROJECT_DIR$/_posts/`2017-10-02-[Spring]MVC.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/`2017-11-04-[Node]Node.js.md" afterPath="$PROJECT_DIR$/_posts/2017-11-10-[Node]basic.js.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-07-[Jquery]core.md" afterPath="$PROJECT_DIR$/_posts/2017-11-07-[Jquery]core.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,12 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-11-10-[Node]basic.js.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-11-10-[Node]basic.js.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-10-[Node]basic.js.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="313">
-                <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+              <first_editor relative-caret-position="57">
+                <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -42,12 +39,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-11-07-[Jquery]core.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-11-07-[Jquery]core.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-07-[Jquery]core.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              <first_editor relative-caret-position="323">
+                <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -216,10 +213,10 @@
         <option value="$PROJECT_DIR$/_posts/2017-10-26-[Markdown]문법.md" />
         <option value="$PROJECT_DIR$/_posts/`2017-11-04-[Node]Node.js.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-04-[Node]basic.js.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-11-07-[Jquery]core.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-06-[Jquery]checkbox_컨트롤.md" />
         <option value="$PROJECT_DIR$/_posts/`2017-10-02-Spring_Web.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-10-[Node]basic.js.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-07-[Jquery]core.md" />
       </list>
     </option>
   </component>
@@ -369,14 +366,7 @@
       <workItem from="1510186670580" duration="2580000" />
       <workItem from="1510197753501" duration="1549000" />
       <workItem from="1510224652265" duration="844000" />
-      <workItem from="1510293319928" duration="2435000" />
-    </task>
-    <task id="LOCAL-00038" summary="disqus 기능 추가 Post">
-      <created>1507013167805</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1507013167805</updated>
+      <workItem from="1510293319928" duration="2607000" />
     </task>
     <task id="LOCAL-00039" summary="disqus 기능 추가 Post">
       <created>1507013431333</created>
@@ -714,11 +704,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510192272390</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Add Node 기본">
+      <created>1510303069243</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1510303069244</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115417000" />
+    <option name="totallyTimeSpent" value="115589000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -759,7 +756,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="spring-setting-end" />
     <MESSAGE value="java for spring" />
     <MESSAGE value="java for spring&#10;-end" />
     <MESSAGE value="jsp for spring&#10;    -end" />
@@ -784,7 +780,8 @@
     <MESSAGE value="jquery-checkbox" />
     <MESSAGE value="jquery-core" />
     <MESSAGE value="jquery-core update" />
-    <option name="LAST_COMMIT_MESSAGE" value="jquery-core update" />
+    <MESSAGE value="Add Node 기본" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Node 기본" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1153,17 +1150,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-07-[Jquery]core.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/`2017-10-11-Error_Note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1211,8 +1197,19 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-10-[Node]basic.js.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="313">
-            <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-07-[Jquery]core.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor />

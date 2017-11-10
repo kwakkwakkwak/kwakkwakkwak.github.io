@@ -3,7 +3,7 @@ title : "[Jquery] 핵심 내용"
 description : "javascript 의 핵심"
 categories : javascript
 tags : javascript jquery core selector event DOM
-date : 2017-11-06
+date : 2017-11-07
 comments : true
 ---
 
