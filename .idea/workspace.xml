@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-07-[Jquery]core.md" afterPath="$PROJECT_DIR$/_posts/2017-11-07-[Jquery]core.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-10-[Node]basic.js.md" afterPath="$PROJECT_DIR$/_posts/2017-11-10-[Node]basic.js.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,12 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-11-10-[Node]basic.js.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-11-10-[Node]basic.js.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-10-[Node]basic.js.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="57">
-                <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+              <first_editor relative-caret-position="267">
+                <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -39,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-11-07-[Jquery]core.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-11-07-[Jquery]core.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-07-[Jquery]core.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="323">
+              <first_editor relative-caret-position="-407">
                 <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
                 <folding />
               </first_editor>
@@ -215,8 +215,8 @@
         <option value="$PROJECT_DIR$/_posts/2017-11-04-[Node]basic.js.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-06-[Jquery]checkbox_컨트롤.md" />
         <option value="$PROJECT_DIR$/_posts/`2017-10-02-Spring_Web.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-11-10-[Node]basic.js.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-07-[Jquery]core.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-10-[Node]basic.js.md" />
       </list>
     </option>
   </component>
@@ -366,14 +366,7 @@
       <workItem from="1510186670580" duration="2580000" />
       <workItem from="1510197753501" duration="1549000" />
       <workItem from="1510224652265" duration="844000" />
-      <workItem from="1510293319928" duration="2607000" />
-    </task>
-    <task id="LOCAL-00039" summary="disqus 기능 추가 Post">
-      <created>1507013431333</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1507013431333</updated>
+      <workItem from="1510293319928" duration="3249000" />
     </task>
     <task id="LOCAL-00040" summary="disqus 기능 추가 Post">
       <created>1507013882702</created>
@@ -711,11 +704,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510303069244</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Add Node 기본">
+      <created>1510303224448</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1510303224448</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115589000" />
+    <option name="totallyTimeSpent" value="116231000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1194,22 +1194,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-10-[Node]basic.js.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-07-[Jquery]core.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <first_editor relative-caret-position="-407">
+            <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-07-[Jquery]core.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-10-[Node]basic.js.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="323">
-            <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <first_editor relative-caret-position="267">
+            <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

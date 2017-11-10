@@ -35,7 +35,7 @@ comments : true
 
 ### 설치
 
-> $ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.4/install.sh | bash
+> $ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.4/install.sh / bash
 
 ### nvm 명령어
 
