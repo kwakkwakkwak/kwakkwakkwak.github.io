@@ -1,5 +1,5 @@
 ---
-title: "[jquery] checkbox 컨트롤"
+title: "[Jquery] checkbox 컨트롤"
 description: "jquery를 이용해서 checkbox 컨트롤"
 categories: 
 tags: 

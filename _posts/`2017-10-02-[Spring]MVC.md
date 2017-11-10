@@ -1,5 +1,5 @@
 ---
-title: "Spring_Web "
+title: "[Spring] MVC"
 description: "JSP for Spring Framework & MVC Pattern"
 categories: 
  JSP 
