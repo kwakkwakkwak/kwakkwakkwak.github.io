@@ -6,12 +6,12 @@ categories:
     node
 tags: 
     node
-date: 2017-11-04
+date: 2017-11-10
 comments : true
 ---
 
 
-# [Node.js](https://nodejs.org/ko/)
+## [Node.js](https://nodejs.org/ko/)
  
 * 비동기 이벤트 주도 JavaScript 런타임으로써 Node는 확장성 있는 네트워크 애플리케이션을 만들 수 있도록 설계되었습니다.
  다음 "hello world" 예제는 다수의 연결을 동시에 처리할 수 있습니다.
