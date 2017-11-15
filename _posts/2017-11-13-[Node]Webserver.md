@@ -124,7 +124,10 @@ req.on('error', function(err) {
     console.log("에러 발생 : " + err.message);
 });
 
-````
+```
+
+**실행결과**
+
 ![1](/assets/images/[node]webserver/1.png)
 
 
@@ -169,6 +172,9 @@ req.write(req.data);
 req.end();
 
 ```
+
+**실행결과**
+
 ![2](/assets/images/[node]webserver/2.png)
 
 

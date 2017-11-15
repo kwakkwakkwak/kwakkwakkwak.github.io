@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/[node]webserver/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/[node]webserver/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-11-13-[Node]Webserver.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/`2017-11-13-[Node]Webserver.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-13-[Node]Webserver.md" afterPath="$PROJECT_DIR$/_posts/2017-11-13-[Node]Webserver.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,24 +31,24 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-13-[Node]Webserver.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="359">
-                <caret line="163" column="42" lean-forward="true" selection-start-line="163" selection-start-column="42" selection-end-line="163" selection-end-column="42" />
+              <first_editor relative-caret-position="369">
+                <caret line="176" column="0" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
                 <folding>
-                  <marker date="1510752292255" expanded="true" signature="408:491" ph="{...}" />
-                  <marker date="1510752292255" expanded="true" signature="910:995" ph="{...}" />
-                  <marker date="1510752292255" expanded="true" signature="1058:1115" ph="{...}" />
-                  <marker date="1510752292255" expanded="true" signature="1165:1196" ph="{...}" />
-                  <marker date="1510752292255" expanded="true" signature="1551:1935" ph="{...}" />
-                  <marker date="1510752292255" expanded="true" signature="2123:2182" ph="{&quot;host&quot;: 'www.google.com'...}" />
-                  <marker date="1510752292255" expanded="true" signature="2227:2401" ph="{...}" />
-                  <marker date="1510752292255" expanded="true" signature="2299:2329" ph="{...}" />
-                  <marker date="1510752292255" expanded="true" signature="2366:2397" ph="{...}" />
-                  <marker date="1510752292255" expanded="true" signature="2435:2481" ph="{...}" />
-                  <marker date="1510752292255" expanded="true" signature="2604:2700" ph="{&quot;host&quot;: 'www.google.com'...}" />
-                  <marker date="1510752292255" expanded="true" signature="2765:2896" ph="{...}" />
-                  <marker date="1510752292255" expanded="true" signature="2809:2833" ph="{...}" />
-                  <marker date="1510752292255" expanded="true" signature="2864:2892" ph="{...}" />
-                  <marker date="1510752292255" expanded="true" signature="3071:3117" ph="{...}" />
+                  <marker date="1510752446797" expanded="true" signature="408:491" ph="{...}" />
+                  <marker date="1510752446797" expanded="true" signature="910:995" ph="{...}" />
+                  <marker date="1510752446797" expanded="true" signature="1058:1115" ph="{...}" />
+                  <marker date="1510752446797" expanded="true" signature="1165:1196" ph="{...}" />
+                  <marker date="1510752446797" expanded="true" signature="1551:1935" ph="{...}" />
+                  <marker date="1510752446797" expanded="true" signature="2123:2182" ph="{&quot;host&quot;: 'www.google.com'...}" />
+                  <marker date="1510752446797" expanded="true" signature="2227:2401" ph="{...}" />
+                  <marker date="1510752446797" expanded="true" signature="2299:2329" ph="{...}" />
+                  <marker date="1510752446797" expanded="true" signature="2366:2397" ph="{...}" />
+                  <marker date="1510752446797" expanded="true" signature="2435:2481" ph="{...}" />
+                  <marker date="1510752446797" expanded="true" signature="2614:2710" ph="{&quot;host&quot;: 'www.google.com'...}" />
+                  <marker date="1510752446797" expanded="true" signature="2775:2906" ph="{...}" />
+                  <marker date="1510752446797" expanded="true" signature="2819:2843" ph="{...}" />
+                  <marker date="1510752446797" expanded="true" signature="2874:2902" ph="{...}" />
+                  <marker date="1510752446797" expanded="true" signature="3081:3127" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -104,8 +99,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/`2017-10-02-[Spring]MVC.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="243">
-                <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="39" />
+              <first_editor relative-caret-position="390">
+                <caret line="197" column="39" lean-forward="true" selection-start-line="197" selection-start-column="39" selection-end-line="197" selection-end-column="39" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -196,8 +191,8 @@
         <option value="$PROJECT_DIR$/_posts/`2017-10-02-Spring_Web.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-07-[Jquery]core.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-10-[Node]basic.js.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-11-13-[Node]Webserver.md" />
         <option value="$PROJECT_DIR$/_posts/`2017-11-13-[Node]Webserver.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-13-[Node]Webserver.md" />
       </list>
     </option>
   </component>
@@ -380,14 +375,7 @@
       <workItem from="1510565692134" duration="764000" />
       <workItem from="1510649628336" duration="10000" />
       <workItem from="1510649646470" duration="1194000" />
-      <workItem from="1510715565553" duration="3209000" />
-    </task>
-    <task id="LOCAL-00042" summary="favicon 추가">
-      <created>1507014628239</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1507014628239</updated>
+      <workItem from="1510715565553" duration="3349000" />
     </task>
     <task id="LOCAL-00043" summary="favicon 추가">
       <created>1507015106563</created>
@@ -725,11 +713,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510649670571</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Add Node 기본">
+      <created>1510752322081</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1510752322081</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123397000" />
+    <option name="totallyTimeSpent" value="123537000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1194,8 +1189,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/`2017-10-02-[Spring]MVC.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="243">
-            <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="39" />
+          <first_editor relative-caret-position="390">
+            <caret line="197" column="39" lean-forward="true" selection-start-line="197" selection-start-column="39" selection-end-line="197" selection-end-column="39" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1205,24 +1200,24 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-13-[Node]Webserver.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="359">
-            <caret line="163" column="42" lean-forward="true" selection-start-line="163" selection-start-column="42" selection-end-line="163" selection-end-column="42" />
+          <first_editor relative-caret-position="369">
+            <caret line="176" column="0" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
             <folding>
-              <marker date="1510752292255" expanded="true" signature="408:491" ph="{...}" />
-              <marker date="1510752292255" expanded="true" signature="910:995" ph="{...}" />
-              <marker date="1510752292255" expanded="true" signature="1058:1115" ph="{...}" />
-              <marker date="1510752292255" expanded="true" signature="1165:1196" ph="{...}" />
-              <marker date="1510752292255" expanded="true" signature="1551:1935" ph="{...}" />
-              <marker date="1510752292255" expanded="true" signature="2123:2182" ph="{&quot;host&quot;: 'www.google.com'...}" />
-              <marker date="1510752292255" expanded="true" signature="2227:2401" ph="{...}" />
-              <marker date="1510752292255" expanded="true" signature="2299:2329" ph="{...}" />
-              <marker date="1510752292255" expanded="true" signature="2366:2397" ph="{...}" />
-              <marker date="1510752292255" expanded="true" signature="2435:2481" ph="{...}" />
-              <marker date="1510752292255" expanded="true" signature="2604:2700" ph="{&quot;host&quot;: 'www.google.com'...}" />
-              <marker date="1510752292255" expanded="true" signature="2765:2896" ph="{...}" />
-              <marker date="1510752292255" expanded="true" signature="2809:2833" ph="{...}" />
-              <marker date="1510752292255" expanded="true" signature="2864:2892" ph="{...}" />
-              <marker date="1510752292255" expanded="true" signature="3071:3117" ph="{...}" />
+              <marker date="1510752446797" expanded="true" signature="408:491" ph="{...}" />
+              <marker date="1510752446797" expanded="true" signature="910:995" ph="{...}" />
+              <marker date="1510752446797" expanded="true" signature="1058:1115" ph="{...}" />
+              <marker date="1510752446797" expanded="true" signature="1165:1196" ph="{...}" />
+              <marker date="1510752446797" expanded="true" signature="1551:1935" ph="{...}" />
+              <marker date="1510752446797" expanded="true" signature="2123:2182" ph="{&quot;host&quot;: 'www.google.com'...}" />
+              <marker date="1510752446797" expanded="true" signature="2227:2401" ph="{...}" />
+              <marker date="1510752446797" expanded="true" signature="2299:2329" ph="{...}" />
+              <marker date="1510752446797" expanded="true" signature="2366:2397" ph="{...}" />
+              <marker date="1510752446797" expanded="true" signature="2435:2481" ph="{...}" />
+              <marker date="1510752446797" expanded="true" signature="2614:2710" ph="{&quot;host&quot;: 'www.google.com'...}" />
+              <marker date="1510752446797" expanded="true" signature="2775:2906" ph="{...}" />
+              <marker date="1510752446797" expanded="true" signature="2819:2843" ph="{...}" />
+              <marker date="1510752446797" expanded="true" signature="2874:2902" ph="{...}" />
+              <marker date="1510752446797" expanded="true" signature="3081:3127" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
