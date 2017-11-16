@@ -81,9 +81,9 @@ app.use('/', function(req, res, next) {
 
 ```javascript
 
-	res.send({name:'소녀시대', age:20});
+res.send({name:'소녀시대', age:20});
 	
-	res.redirect('http://google.co.kr');
+res.redirect('http://google.co.kr');
 	
 ```
 
