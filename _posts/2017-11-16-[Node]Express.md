@@ -78,6 +78,7 @@ app.use('/', function(req, res, next) {
 * next 함수로 다음 미들웨어로 값을 넘길수 있다. 
 
 * parameter 로 경로를 지정할 수 있다.
+
 ```javascript
 
 	res.send({name:'소녀시대', age:20});
