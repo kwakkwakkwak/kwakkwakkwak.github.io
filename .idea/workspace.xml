@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-16-[Node]Express.md" afterPath="$PROJECT_DIR$/_posts/2017-11-16-[Node]Express.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-17-[Node][Android]연동.md" afterPath="$PROJECT_DIR$/_posts/2017-11-17-[Node][Android]연동.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-11-16-[Node]Express.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-11-16-[Node]Express.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-16-[Node]Express.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
+              <first_editor relative-caret-position="-627">
                 <caret line="151" column="30" lean-forward="true" selection-start-line="151" selection-start-column="30" selection-end-line="151" selection-end-column="30" />
                 <folding>
                   <marker date="1510918658039" expanded="true" signature="480:539" ph="{...}" />
@@ -54,19 +54,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-11-17-[Node][Android]연동.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-11-17-[Node][Android]연동.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-17-[Node][Android]연동.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+              <first_editor relative-caret-position="295">
+                <caret line="148" column="3" lean-forward="true" selection-start-line="148" selection-start-column="3" selection-end-line="148" selection-end-column="3" />
                 <folding>
-                  <marker date="1510918508591" expanded="true" signature="253:323" ph="/** 익스프레스를 사용한 가장 단순한 샘플 ...*/" />
-                  <marker date="1510918508591" expanded="true" signature="551:594" ph="{...}" />
-                  <marker date="1510918508591" expanded="true" signature="673:734" ph="{...}" />
-                  <marker date="1510918508591" expanded="true" signature="887:1479" ph="..." />
-                  <marker date="1510918508591" expanded="true" signature="1134:1290" ph="..." />
-                  <marker date="1510918508591" expanded="true" signature="1306:1463" ph="..." />
+                  <marker date="1510918763208" expanded="true" signature="253:323" ph="/** 익스프레스를 사용한 가장 단순한 샘플 ...*/" />
+                  <marker date="1510918763208" expanded="true" signature="551:594" ph="{...}" />
+                  <marker date="1510918763208" expanded="true" signature="673:734" ph="{...}" />
+                  <marker date="1510918763208" expanded="true" signature="887:1479" ph="..." />
+                  <marker date="1510918763208" expanded="true" signature="1134:1290" ph="..." />
+                  <marker date="1510918763208" expanded="true" signature="1306:1463" ph="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -199,8 +199,8 @@
         <option value="$PROJECT_DIR$/_posts/2017-11-10-[Node]basic.js.md" />
         <option value="$PROJECT_DIR$/_posts/`2017-11-13-[Node]Webserver.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-13-[Node]Webserver.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-11-17-[Node][Android]연동.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-16-[Node]Express.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-17-[Node][Android]연동.md" />
       </list>
     </option>
   </component>
@@ -286,6 +286,13 @@
               <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GithubBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="[Node][Android]연동" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GithubBlog" type="b2602c69:ProjectViewProjectNode" />
@@ -389,14 +396,7 @@
       <workItem from="1510801693179" duration="7664000" />
       <workItem from="1510831955150" duration="197000" />
       <workItem from="1510832202033" duration="85000" />
-      <workItem from="1510898108389" duration="2195000" />
-    </task>
-    <task id="LOCAL-00048" summary="JSP for Spring 변경">
-      <created>1507363127549</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1507363127549</updated>
+      <workItem from="1510898108389" duration="2291000" />
     </task>
     <task id="LOCAL-00049" summary="favicon 변경">
       <created>1507432603138</created>
@@ -734,11 +734,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510918538052</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Express fix">
+      <created>1510918684943</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1510918684943</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134035000" />
+    <option name="totallyTimeSpent" value="134131000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -779,7 +786,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="jsp for spring&#10;    -end" />
     <MESSAGE value="add Disqus" />
     <MESSAGE value="jsp for spring update" />
     <MESSAGE value="disqus 위치 수정" />
@@ -804,7 +810,8 @@
     <MESSAGE value="Add Node 기본" />
     <MESSAGE value="ADD Express" />
     <MESSAGE value="Node 와 Android 의 연동" />
-    <option name="LAST_COMMIT_MESSAGE" value="Node 와 Android 의 연동" />
+    <MESSAGE value="Express fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Express fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1188,24 +1195,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-17-[Node][Android]연동.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-            <folding>
-              <marker date="1510918508591" expanded="true" signature="253:323" ph="/** 익스프레스를 사용한 가장 단순한 샘플 ...*/" />
-              <marker date="1510918508591" expanded="true" signature="551:594" ph="{...}" />
-              <marker date="1510918508591" expanded="true" signature="673:734" ph="{...}" />
-              <marker date="1510918508591" expanded="true" signature="887:1479" ph="..." />
-              <marker date="1510918508591" expanded="true" signature="1134:1290" ph="..." />
-              <marker date="1510918508591" expanded="true" signature="1306:1463" ph="..." />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-13-[Node]Webserver.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1236,7 +1225,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-16-[Node]Express.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
+          <first_editor relative-caret-position="-627">
             <caret line="151" column="30" lean-forward="true" selection-start-line="151" selection-start-column="30" selection-end-line="151" selection-end-column="30" />
             <folding>
               <marker date="1510918658039" expanded="true" signature="480:539" ph="{...}" />
@@ -1252,6 +1241,24 @@
               <marker date="1510918658039" expanded="true" signature="2938:3024" ph="..." />
               <marker date="1510918658039" expanded="true" signature="3032:3129" ph="..." />
               <marker date="1510918658039" expanded="true" signature="3347:3940" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-17-[Node][Android]연동.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="295">
+            <caret line="148" column="3" lean-forward="true" selection-start-line="148" selection-start-column="3" selection-end-line="148" selection-end-column="3" />
+            <folding>
+              <marker date="1510918763208" expanded="true" signature="253:323" ph="/** 익스프레스를 사용한 가장 단순한 샘플 ...*/" />
+              <marker date="1510918763208" expanded="true" signature="551:594" ph="{...}" />
+              <marker date="1510918763208" expanded="true" signature="673:734" ph="{...}" />
+              <marker date="1510918763208" expanded="true" signature="887:1479" ph="..." />
+              <marker date="1510918763208" expanded="true" signature="1134:1290" ph="..." />
+              <marker date="1510918763208" expanded="true" signature="1306:1463" ph="..." />
             </folding>
           </first_editor>
           <second_editor />

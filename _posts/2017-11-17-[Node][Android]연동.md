@@ -150,8 +150,8 @@ public class ResultActivity extends AppCompatActivity {
 
 ## RESULT
 
-![1](/assets/images/[Node][Andorid]연동/1.png)
+![1](/assets/images/[Node][Android]연동/1.png)
 
-![2](/assets/images/[Node][Andorid]연동/2.png)
+![2](/assets/images/[Node][Android]연동/2.png)
 
 * `AsyncTask` 라는 비동기 클래스를 이용해서 url 에서 json 값을 가져온다.
