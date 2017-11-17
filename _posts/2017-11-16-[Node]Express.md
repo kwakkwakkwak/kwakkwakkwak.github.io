@@ -142,7 +142,9 @@ router.route('/process/login').post(function(req, res) {
 app.use('/', router);
 ``` 
  * 라우팅 함수를 등록하고
+ 
 ```html
+
 <!DOCTYPE html>
 <html>
 	<head>
@@ -167,7 +169,10 @@ app.use('/', router);
 	</form>
 </body>
 </html>
+
 ```
+
+
 * 매칭되는 action 을 만들어 준다.
 
 ### 라우터 요청패스에 파라미터 값 명시해주기
