@@ -193,6 +193,9 @@ router.route('/process/login/:name').post(function(req, res) {
 
 ```
 
+* router 를 이용해서 요청패스 뒤에 `:name` 으로 parameter 를 정해서 받을 수 있다.
+
+* `/process/login/kwak` 이라면 `req.params.name` 의 값은 `kwak` 이다.
 
 
 
