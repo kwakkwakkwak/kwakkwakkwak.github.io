@@ -43,7 +43,9 @@ function connectDB() {
 
 * 사용자 인증 
 
-```javascript 1.6
+
+```javascript
+
 // 사용자를 인증하는 함수
 var authUser = function(database, id, password, callback) {
 	console.log('authUser 호출됨 : ' + id + ', ' + password);
