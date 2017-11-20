@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-11-19-[Node]MongoDB.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-19-[Node]MongoDB.md" afterPath="$PROJECT_DIR$/_posts/2017-11-19-[Node]MongoDB.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-19-[Node]MongoDB.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="84">
-                <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <first_editor relative-caret-position="378">
+                <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -144,7 +144,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1177" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -180,6 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,7 +214,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,14 +301,9 @@
       <workItem from="1510832202033" duration="85000" />
       <workItem from="1510898108389" duration="3345000" />
       <workItem from="1511008825581" duration="2177000" />
-      <workItem from="1511101163267" duration="830000" />
-    </task>
-    <task id="LOCAL-00053" summary="favicon 변경">
-      <created>1508466470406</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1508466470406</updated>
+      <workItem from="1511101163267" duration="1140000" />
+      <workItem from="1511134412375" duration="18000" />
+      <workItem from="1511134443160" duration="1167000" />
     </task>
     <task id="LOCAL-00054" summary="Spring Book setting update">
       <created>1508466559494</created>
@@ -646,11 +641,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511012926522</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="MongoDB 설치">
+      <created>1511102147953</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1511102147953</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138192000" />
+    <option name="totallyTimeSpent" value="139687000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -662,16 +664,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1177" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15060559" sideWeight="0.4937107" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22543702" sideWeight="0.4937107" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27682403" sideWeight="0.5022479" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3192389" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27016884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31441048" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22696155" sideWeight="0.5062893" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -691,7 +693,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="disqus 기능 추가 Post" />
     <MESSAGE value="favicon 추가" />
     <MESSAGE value="오류 정검" />
     <MESSAGE value="JSP for Spring 변경" />
@@ -716,7 +717,8 @@
     <MESSAGE value="Node&amp;Android fix" />
     <MESSAGE value="MVC 패턴" />
     <MESSAGE value="MVC 패턴 Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="MVC 패턴 Update" />
+    <MESSAGE value="MongoDB 설치" />
+    <option name="LAST_COMMIT_MESSAGE" value="MongoDB 설치" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1059,7 +1061,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="21">
             <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1070,23 +1071,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="678">
             <caret line="177" column="36" lean-forward="false" selection-start-line="177" selection-start-column="36" selection-end-line="177" selection-end-column="36" />
-            <folding>
-              <marker date="1510752446797" expanded="true" signature="408:491" ph="{...}" />
-              <marker date="1510752446797" expanded="true" signature="910:995" ph="{...}" />
-              <marker date="1510752446797" expanded="true" signature="1058:1115" ph="{...}" />
-              <marker date="1510752446797" expanded="true" signature="1165:1196" ph="{...}" />
-              <marker date="1510752446797" expanded="true" signature="1551:1935" ph="{...}" />
-              <marker date="1510752446797" expanded="true" signature="2123:2182" ph="{&quot;host&quot;: 'www.google.com'...}" />
-              <marker date="1510752446797" expanded="true" signature="2227:2401" ph="{...}" />
-              <marker date="1510752446797" expanded="true" signature="2299:2329" ph="{...}" />
-              <marker date="1510752446797" expanded="true" signature="2366:2397" ph="{...}" />
-              <marker date="1510752446797" expanded="true" signature="2435:2481" ph="{...}" />
-              <marker date="1510752446797" expanded="true" signature="2614:2710" ph="{&quot;host&quot;: 'www.google.com'...}" />
-              <marker date="1510752446797" expanded="true" signature="2775:2906" ph="{...}" />
-              <marker date="1510752446797" expanded="true" signature="2819:2843" ph="{...}" />
-              <marker date="1510752446797" expanded="true" signature="2874:2902" ph="{...}" />
-              <marker date="1510752446797" expanded="true" signature="3081:3127" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1097,14 +1081,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="678">
             <caret line="154" column="44" lean-forward="false" selection-start-line="154" selection-start-column="44" selection-end-line="154" selection-end-column="44" />
-            <folding>
-              <marker date="1510918763208" expanded="true" signature="253:323" ph="/** 익스프레스를 사용한 가장 단순한 샘플 ...*/" />
-              <marker date="1510918763208" expanded="true" signature="551:594" ph="{...}" />
-              <marker date="1510918763208" expanded="true" signature="673:734" ph="{...}" />
-              <marker date="1510918763208" expanded="true" signature="887:1479" ph="..." />
-              <marker date="1510918763208" expanded="true" signature="1134:1290" ph="..." />
-              <marker date="1510918763208" expanded="true" signature="1306:1463" ph="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1115,21 +1091,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="152">
             <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-            <folding>
-              <marker date="1510918658039" expanded="true" signature="480:539" ph="{...}" />
-              <marker date="1510918658039" expanded="true" signature="733:888" ph="{...}" />
-              <marker date="1510918658039" expanded="true" signature="1098:1170" ph="{...}" />
-              <marker date="1510918658039" expanded="true" signature="1232:1405" ph="{...}" />
-              <marker date="1510918658039" expanded="true" signature="2201:2679" ph="{...}" />
-              <marker date="1510918658039" expanded="true" signature="2780:3209" ph="..." />
-              <marker date="1510918658039" expanded="true" signature="2788:2847" ph="..." />
-              <marker date="1510918658039" expanded="true" signature="2854:3201" ph="..." />
-              <marker date="1510918658039" expanded="true" signature="2920:3193" ph="..." />
-              <marker date="1510918658039" expanded="true" signature="2930:3140" ph="..." />
-              <marker date="1510918658039" expanded="true" signature="2938:3024" ph="..." />
-              <marker date="1510918658039" expanded="true" signature="3032:3129" ph="..." />
-              <marker date="1510918658039" expanded="true" signature="3347:3940" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1140,7 +1101,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="6006">
             <caret line="286" column="3" lean-forward="true" selection-start-line="286" selection-start-column="3" selection-end-line="286" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1151,7 +1111,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1218">
             <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1160,8 +1119,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-19-[Node]MongoDB.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="84">
-            <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <first_editor relative-caret-position="378">
+            <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

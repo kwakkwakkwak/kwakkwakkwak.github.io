@@ -15,14 +15,65 @@ comments : true
 
 # 설치
 
-* 보통 OS X 에서 지원하지 않는 패키지를 관리하기 위한 툴이 많은데 그중에 HomeBrew 라는 패키지 관리자로 설치를 진행한다.
+1. 보통 OS X 에서 지원하지 않는 패키지를 관리하기 위한 툴이 많은데 그중에 HomeBrew 라는 패키지 관리자로 설치를 진행한다.
 
 > /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-* 터미널에 붙여넣어서 설치할 수 있다.
+2. 터미널에 붙여넣어서 설치할 수 있다.
 
 > $ brew install mongodb
 
-* 위의 명령어로 brew 에 mongoDB가 설치된다.
+3. 위의 명령어로 brew 에 mongoDB가 설치된다. brew mongoDB를 설치하면 환경변수 등록을 하지 않아도 된다.
+
+# 설정
+
+1. 데이터 저장 폴더 만들기
+
+> $ sudo mkdir -p /data/db
+
+2. 권한 부여하기
+
+> chown $USER /data/db 
+
+3. Mongod 활성화
+
+> mongod
+
+4. Mongo 실행
+
+> mongo
+
+## 명령어
+
+* 버전 확인
+
+> mongod --version
+
+* DB 이동
+
+> use db
+
+* DB List
+
+> show dbs
+
+* DB 상태
+
+> db.stats()
+
+* DB shutdown
+
+> use admin
+>
+> db.shutdownServer()
+
+* DB Logout
+
+> db.logout()
+
+
+
+
+
 
 
