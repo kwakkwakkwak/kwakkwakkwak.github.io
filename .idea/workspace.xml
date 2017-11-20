@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-11-20-[Node]_MongoDB_연동.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-19-[Node]MongoDB.md" afterPath="$PROJECT_DIR$/_posts/2017-11-19-[Node]MongoDB.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,13 +27,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-11-19-[Node]MongoDB.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-11-19-[Node]MongoDB.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-19-[Node]MongoDB.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="378">
-                <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <first_editor relative-caret-position="1333">
+                <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
                 <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-11-20-[Node]_MongoDB_연동.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-11-20-[Node]_MongoDB_연동.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="370">
+                <caret line="74" column="27" lean-forward="false" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
+                <folding>
+                  <marker date="1511147324627" expanded="true" signature="379:646" ph="{...}" />
+                  <marker date="1511147324627" expanded="true" signature="520:642" ph="{...}" />
+                  <marker date="1511147324627" expanded="true" signature="756:1375" ph="{...}" />
+                  <marker date="1511147324627" expanded="true" signature="977:1371" ph="{...}" />
+                  <marker date="1511147324627" expanded="true" signature="990:1063" ph="{...}" />
+                  <marker date="1511147324627" expanded="true" signature="1093:1241" ph="{...}" />
+                  <marker date="1511147324627" expanded="true" signature="1247:1368" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -74,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/tutorial/2013-12-26-images.md" />
         <option value="$PROJECT_DIR$/_posts/tutorial/2014-02-16-Mathjax-with-jekyll.md" />
         <option value="$PROJECT_DIR$/_posts/tutorial/2014-11-18-gallery-post.md" />
         <option value="$PROJECT_DIR$/_posts/tutorial/2015-09-19-emoji-test.md" />
@@ -125,6 +145,7 @@
         <option value="$PROJECT_DIR$/_posts/`2017-10-02-[Spring]MVC.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-02-[Spring]MVC.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-19-[Node]MongoDB.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-20-[Node]_MongoDB_연동.md" />
       </list>
     </option>
   </component>
@@ -143,7 +164,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1920" />
+    <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -303,14 +324,7 @@
       <workItem from="1511008825581" duration="2177000" />
       <workItem from="1511101163267" duration="1140000" />
       <workItem from="1511134412375" duration="18000" />
-      <workItem from="1511134443160" duration="1167000" />
-    </task>
-    <task id="LOCAL-00054" summary="Spring Book setting update">
-      <created>1508466559494</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1508466559494</updated>
+      <workItem from="1511134443160" duration="4617000" />
     </task>
     <task id="LOCAL-00055" summary=" disqus update">
       <created>1508637441627</created>
@@ -648,11 +662,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511102147953</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="MongoDB 및 명령어">
+      <created>1511136953709</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1511136953709</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139687000" />
+    <option name="totallyTimeSpent" value="143137000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -693,7 +714,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="favicon 추가" />
     <MESSAGE value="오류 정검" />
     <MESSAGE value="JSP for Spring 변경" />
     <MESSAGE value="favicon 변경" />
@@ -718,23 +738,14 @@
     <MESSAGE value="MVC 패턴" />
     <MESSAGE value="MVC 패턴 Update" />
     <MESSAGE value="MongoDB 설치" />
-    <option name="LAST_COMMIT_MESSAGE" value="MongoDB 설치" />
+    <MESSAGE value="MongoDB 및 명령어" />
+    <option name="LAST_COMMIT_MESSAGE" value="MongoDB 및 명령어" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/tutorial/`2013-12-24-link-post.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="114">
-            <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/tutorial/`2017-07-20-next-tutorial.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1119,9 +1130,28 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-19-[Node]MongoDB.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="378">
-            <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <first_editor relative-caret-position="1333">
+            <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-20-[Node]_MongoDB_연동.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="370">
+            <caret line="74" column="27" lean-forward="false" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
+            <folding>
+              <marker date="1511147324627" expanded="true" signature="379:646" ph="{...}" />
+              <marker date="1511147324627" expanded="true" signature="520:642" ph="{...}" />
+              <marker date="1511147324627" expanded="true" signature="756:1375" ph="{...}" />
+              <marker date="1511147324627" expanded="true" signature="977:1371" ph="{...}" />
+              <marker date="1511147324627" expanded="true" signature="990:1063" ph="{...}" />
+              <marker date="1511147324627" expanded="true" signature="1093:1241" ph="{...}" />
+              <marker date="1511147324627" expanded="true" signature="1247:1368" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
