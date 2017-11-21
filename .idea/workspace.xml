@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-11-20-[Node]_MongoDB_연동.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-11-21-[Node]RPC.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -27,12 +27,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-11-19-[Node]MongoDB.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-11-19-[Node]MongoDB.md">
+      <file leaf-file-name="2017-11-20-[Node]MongoDB연동.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-11-20-[Node]MongoDB연동.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1333">
-                <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <first_editor relative-caret-position="330">
+                <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+                <folding>
+                  <marker date="1511154798263" expanded="true" signature="379:646" ph="{...}" />
+                  <marker date="1511154798263" expanded="true" signature="520:642" ph="{...}" />
+                  <marker date="1511154798263" expanded="true" signature="754:1373" ph="{...}" />
+                  <marker date="1511154798263" expanded="true" signature="975:1369" ph="{...}" />
+                  <marker date="1511154798263" expanded="true" signature="988:1061" ph="{...}" />
+                  <marker date="1511154798263" expanded="true" signature="1091:1239" ph="{...}" />
+                  <marker date="1511154798263" expanded="true" signature="1245:1366" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-10-18-[Spring]Book_Setting.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-10-18-[Spring]Book_Setting.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-1921">
+                <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -40,21 +61,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-11-20-[Node]_MongoDB_연동.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-11-20-[Node]_MongoDB_연동.md">
+      <file leaf-file-name="2017-11-21-[Node]RPC.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-11-21-[Node]RPC.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="370">
-                <caret line="74" column="27" lean-forward="false" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
-                <folding>
-                  <marker date="1511147324627" expanded="true" signature="379:646" ph="{...}" />
-                  <marker date="1511147324627" expanded="true" signature="520:642" ph="{...}" />
-                  <marker date="1511147324627" expanded="true" signature="756:1375" ph="{...}" />
-                  <marker date="1511147324627" expanded="true" signature="977:1371" ph="{...}" />
-                  <marker date="1511147324627" expanded="true" signature="990:1063" ph="{...}" />
-                  <marker date="1511147324627" expanded="true" signature="1093:1241" ph="{...}" />
-                  <marker date="1511147324627" expanded="true" signature="1247:1368" ph="{...}" />
-                </folding>
+              <first_editor relative-caret-position="210">
+                <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -95,8 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/tutorial/2014-02-16-Mathjax-with-jekyll.md" />
-        <option value="$PROJECT_DIR$/_posts/tutorial/2014-11-18-gallery-post.md" />
         <option value="$PROJECT_DIR$/_posts/tutorial/2015-09-19-emoji-test.md" />
         <option value="$PROJECT_DIR$/_posts/tutorial/2017-07-19-highlight-test.md" />
         <option value="$PROJECT_DIR$/_posts/tutorial/2017-07-20-next-tutorial.md" />
@@ -146,6 +157,8 @@
         <option value="$PROJECT_DIR$/_posts/2017-10-02-[Spring]MVC.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-19-[Node]MongoDB.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-20-[Node]_MongoDB_연동.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-20-[Node]MongoDB연동.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-21-[Node]RPC.md" />
       </list>
     </option>
   </component>
@@ -163,7 +176,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+    <option name="x" value="45" />
+    <option name="y" value="162" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
@@ -219,17 +233,6 @@
               <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="GithubBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GithubBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -249,19 +252,19 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/[spring]mvc" />
-      <recent name="$PROJECT_DIR$/assets/images/[node]webserver" />
-      <recent name="$PROJECT_DIR$/assets/src/jquery" />
-      <recent name="$PROJECT_DIR$/assets" />
-      <recent name="$PROJECT_DIR$/assets/src/jsCardGame" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images/[Node][Android]연동" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/assets/images/disqus" />
       <recent name="$PROJECT_DIR$/_posts/tutorial" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/[spring]mvc" />
+      <recent name="$PROJECT_DIR$/assets/images/[node]webserver" />
+      <recent name="$PROJECT_DIR$/assets/src/jquery" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/src/jsCardGame" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -324,21 +327,7 @@
       <workItem from="1511008825581" duration="2177000" />
       <workItem from="1511101163267" duration="1140000" />
       <workItem from="1511134412375" duration="18000" />
-      <workItem from="1511134443160" duration="4617000" />
-    </task>
-    <task id="LOCAL-00055" summary=" disqus update">
-      <created>1508637441627</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1508637441627</updated>
-    </task>
-    <task id="LOCAL-00056" summary=" disqus update">
-      <created>1508638497208</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1508638497208</updated>
+      <workItem from="1511134443160" duration="11537000" />
     </task>
     <task id="LOCAL-00057" summary=" disqus update">
       <created>1508638871257</created>
@@ -669,11 +658,25 @@
       <option name="project" value="LOCAL" />
       <updated>1511136953709</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="node express mongodb">
+      <created>1511147351432</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1511147351432</updated>
+    </task>
+    <task id="LOCAL-00105" summary="node express mongodb">
+      <created>1511154805944</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1511154805944</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143137000" />
+    <option name="totallyTimeSpent" value="150057000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -688,7 +691,7 @@
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22543702" sideWeight="0.4937107" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16214587" sideWeight="0.4937107" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27682403" sideWeight="0.5022479" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3192389" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -714,7 +717,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="오류 정검" />
     <MESSAGE value="JSP for Spring 변경" />
     <MESSAGE value="favicon 변경" />
     <MESSAGE value="Spring Book setting update" />
@@ -739,23 +741,14 @@
     <MESSAGE value="MVC 패턴 Update" />
     <MESSAGE value="MongoDB 설치" />
     <MESSAGE value="MongoDB 및 명령어" />
-    <option name="LAST_COMMIT_MESSAGE" value="MongoDB 및 명령어" />
+    <MESSAGE value="node express mongodb" />
+    <option name="LAST_COMMIT_MESSAGE" value="node express mongodb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/tutorial/`2017-07-20-next-tutorial.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="133">
-            <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/src/jsCardGame/resource/2_1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -805,16 +798,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="19">
             <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-18-[Spring]Book_Setting.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>
@@ -1138,20 +1121,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-20-[Node]_MongoDB_연동.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-20-[Node]MongoDB연동.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="370">
-            <caret line="74" column="27" lean-forward="false" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
+          <first_editor relative-caret-position="330">
+            <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
             <folding>
-              <marker date="1511147324627" expanded="true" signature="379:646" ph="{...}" />
-              <marker date="1511147324627" expanded="true" signature="520:642" ph="{...}" />
-              <marker date="1511147324627" expanded="true" signature="756:1375" ph="{...}" />
-              <marker date="1511147324627" expanded="true" signature="977:1371" ph="{...}" />
-              <marker date="1511147324627" expanded="true" signature="990:1063" ph="{...}" />
-              <marker date="1511147324627" expanded="true" signature="1093:1241" ph="{...}" />
-              <marker date="1511147324627" expanded="true" signature="1247:1368" ph="{...}" />
+              <marker date="1511154798263" expanded="true" signature="379:646" ph="{...}" />
+              <marker date="1511154798263" expanded="true" signature="520:642" ph="{...}" />
+              <marker date="1511154798263" expanded="true" signature="754:1373" ph="{...}" />
+              <marker date="1511154798263" expanded="true" signature="975:1369" ph="{...}" />
+              <marker date="1511154798263" expanded="true" signature="988:1061" ph="{...}" />
+              <marker date="1511154798263" expanded="true" signature="1091:1239" ph="{...}" />
+              <marker date="1511154798263" expanded="true" signature="1245:1366" ph="{...}" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-18-[Spring]Book_Setting.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1921">
+            <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-21-[Node]RPC.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
