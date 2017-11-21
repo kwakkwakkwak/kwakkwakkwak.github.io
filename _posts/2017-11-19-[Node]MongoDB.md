@@ -2,7 +2,7 @@
 title: "[Node] MongoBD 설치"
 description: "Node 에서 MongoDB 설치"
 categories: Node MongoDB
-tags: MongoDB
+tags: MongoDB Node
 date: 2017-11-19
 comments : true
 ---

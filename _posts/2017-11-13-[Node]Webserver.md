@@ -1,8 +1,8 @@
 ---
 title: "[Node] WebServer"
 description: "Node.js로 WebServer 구현"
-categories: javascript node 
-tags: WebServer http 
+categories: javascript Node 
+tags: WebServer http Node
 date: 2017-11-13
 comments : true
 ---

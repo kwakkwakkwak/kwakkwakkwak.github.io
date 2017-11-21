@@ -2,7 +2,7 @@
 title: "[Node] MongoDB 연동"
 description: "Express MongoDB 연동"
 categories: Node MongoDB
-tags: Mongo DB NoSQL Express
+tags: Mongo DB NoSQL Express Node
 date: 2017-11-20
 comments : true
 ---

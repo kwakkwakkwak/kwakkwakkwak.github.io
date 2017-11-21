@@ -2,7 +2,7 @@
 title: "[Node] 와 [Android] 의 연동"
 description: "Node 서버와 Android 의 연동"
 categories: Node Android
-tags: node android
+tags: Node android
 date: 2017-11-17
 comments : true
 ---
