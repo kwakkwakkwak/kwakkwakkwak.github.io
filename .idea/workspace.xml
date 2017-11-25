@@ -4,7 +4,6 @@
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search.xml" afterPath="$PROJECT_DIR$/search.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,8 +40,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="553" column="27" lean-forward="false" selection-start-line="553" selection-start-column="27" selection-end-line="553" selection-end-column="27" />
+            <state relative-caret-position="296">
+              <caret line="122" column="14" lean-forward="true" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -70,6 +69,7 @@
       <find>resource</find>
       <find>page.</find>
       <find>search</find>
+      <find>about</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -308,14 +308,7 @@
       <workItem from="1511134412375" duration="18000" />
       <workItem from="1511134443160" duration="11745000" />
       <workItem from="1511309601540" duration="43000" />
-      <workItem from="1511309657413" duration="10708000" />
-    </task>
-    <task id="LOCAL-00063" summary="springbooksetting">
-      <created>1508659781586</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1508659781586</updated>
+      <workItem from="1511309657413" duration="10912000" />
     </task>
     <task id="LOCAL-00064" summary="springbooksetting">
       <created>1508660101775</created>
@@ -653,11 +646,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511521889422</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="search 기능 테스트">
+      <created>1511614829634</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1511614829634</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161016000" />
+    <option name="totallyTimeSpent" value="161220000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -698,7 +698,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="springbooksetting" />
     <MESSAGE value="RestController" />
     <MESSAGE value="RestController update" />
     <MESSAGE value="java Annotation Update" />
@@ -723,7 +722,8 @@
     <MESSAGE value="RPC Update" />
     <MESSAGE value="Node-Tomcat Post Connection" />
     <MESSAGE value="보안" />
-    <option name="LAST_COMMIT_MESSAGE" value="보안" />
+    <MESSAGE value="search 기능 테스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="search 기능 테스트" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1266,8 +1266,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="553" column="27" lean-forward="false" selection-start-line="553" selection-start-column="27" selection-end-line="553" selection-end-column="27" />
+        <state relative-caret-position="296">
+          <caret line="122" column="14" lean-forward="true" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="14" />
           <folding />
         </state>
       </provider>
