@@ -7,7 +7,7 @@ date: 2017-11-23
 comments : true
 ---
 
-* 사용예제는 [여기](https://github.com/kwakkwakkwak/Node-Tomcat) 에서 받아 보실 수 있습니다.
+* 사용예제는 [여기](https://github.com/kwakkwakkwak/Tomcat-Node) 에서 받아 보실 수 있습니다.
 
 # Node
 
