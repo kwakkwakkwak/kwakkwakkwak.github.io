@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="Vue 개발환경 설치">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md" />
+    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-11-29-[Vue]디렉티브.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md" afterPath="$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,39 +27,13 @@
     <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-11-28-[Vue]개발환경.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-11-28-[Vue]개발환경.md">
+    <leaf>
+      <file leaf-file-name="2017-11-29-[Vue]디렉티브.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-11-29-[Vue]디렉티브.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="567">
-                <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="`2017-11-29-[Vue]디렉티브_인스턴스.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/`2017-11-29-[Vue]디렉티브_인스턴스.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="462">
-                <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="`2017-11-27-[Vue]참고자료.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/`2017-11-27-[Vue]참고자료.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="231">
-                <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <first_editor relative-caret-position="5271">
+                <caret line="251" column="27" lean-forward="false" selection-start-line="251" selection-start-column="26" selection-end-line="251" selection-end-column="27" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -70,21 +45,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="420">
-                <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="`2017-10-18-Spring_Book_part2.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/`2017-10-18-Spring_Book_part2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <first_editor relative-caret-position="4200">
+                <caret line="200" column="53" lean-forward="false" selection-start-line="200" selection-start-column="53" selection-end-line="200" selection-end-column="53" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -128,9 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2017-10-03-disqus.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-10-02-[Annotataion] spring.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-10-24-[Anotation]Rest.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-03-[javascript].Markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-11-03-[Javascript]CardGame" />
         <option value="$PROJECT_DIR$/assets/src/jsCardGame/card.html" />
@@ -179,6 +138,9 @@
         <option value="$PROJECT_DIR$/_posts/2017-11-28-[Vue]개발환경.md" />
         <option value="$PROJECT_DIR$/_posts/`2017-11-29-[Vue]인스턴스.md" />
         <option value="$PROJECT_DIR$/_posts/`2017-11-29-[Vue]디렉티브_인스턴스.md" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-29-[Vue]디렉티브.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md" />
       </list>
     </option>
   </component>
@@ -234,6 +196,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,7 +213,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -268,19 +230,19 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/_posts/`2017-10-18-Spring_Book_part2.md&#10;/Users/kwak/WebstormProjects/GithubBlog/_posts/`2017-11-27-[Vue]참고자료.md&#10;/Users/kwak/WebstormProjects/GithubBlog/_posts/`2017-11-29-[Vue]인스턴스.md&#10;/Users/kwak/WebstormProjects/GithubBlog/_posts/`2017-11-29-[Vue]디렉티브_인스턴스.md" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images/[spring]mvc" />
-      <recent name="$PROJECT_DIR$/assets/images/[node]webserver" />
-      <recent name="$PROJECT_DIR$/assets/src/jquery" />
-      <recent name="$PROJECT_DIR$/assets" />
-      <recent name="$PROJECT_DIR$/assets/src/jsCardGame" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images/[security]" />
       <recent name="$PROJECT_DIR$/assets/images/[Node]RPC" />
       <recent name="$PROJECT_DIR$/assets/images/[Node][Android]연동" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/[spring]mvc" />
+      <recent name="$PROJECT_DIR$/assets/images/[node]webserver" />
+      <recent name="$PROJECT_DIR$/assets/src/jquery" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/src/jsCardGame" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -351,14 +313,8 @@
       <workItem from="1511309657413" duration="13533000" />
       <workItem from="1511748281030" duration="1181000" />
       <workItem from="1511792978591" duration="9154000" />
-      <workItem from="1511918588264" duration="12000" />
-    </task>
-    <task id="LOCAL-00067" summary="java Annotation Update">
-      <created>1508928192221</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1508928192221</updated>
+      <workItem from="1511918588264" duration="834000" />
+      <workItem from="1512006220048" duration="5177000" />
     </task>
     <task id="LOCAL-00068" summary="java Annotation Update">
       <created>1508979512389</created>
@@ -696,11 +652,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511808955124</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="Vue 개발환경 설치">
+      <created>1511918605058</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1511918605058</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174188000" />
+    <option name="totallyTimeSpent" value="180187000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -773,11 +736,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/images/[spring]mvc/mvc_pattern.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/`2017-10-11-Spring_Web2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -842,7 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -856,7 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1026,7 +982,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="21">
             <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="7" selection-end-column="16" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1037,25 +992,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="3423">
             <caret line="163" column="35" lean-forward="false" selection-start-line="163" selection-start-column="5" selection-end-line="163" selection-end-column="35" />
-            <folding>
-              <marker date="1511315096910" expanded="true" signature="572:599" ph="/*...*/" />
-              <marker date="1511315096910" expanded="true" signature="648:972" ph="{...}" />
-              <marker date="1511315096910" expanded="true" signature="745:875" ph="{...}" />
-              <marker date="1511315096910" expanded="true" signature="770:851" ph="{&quot;message&quot;: 'Insufficient parameters'...}" />
-              <marker date="1511315096910" expanded="true" signature="1051:1081" ph="/*...*/" />
-              <marker date="1511315096910" expanded="true" signature="1140:1185" ph="[...]" />
-              <marker date="1511315096910" expanded="true" signature="1280:3119" ph="..." />
-              <marker date="1511315096910" expanded="true" signature="1288:2781" ph="..." />
-              <marker date="1511315096910" expanded="true" signature="1444:2763" ph="..." />
-              <marker date="1511315096910" expanded="true" signature="1462:2634" ph="{...}" />
-              <marker date="1511315096910" expanded="true" signature="1493:1598" ph="{&quot;endPoint&quot;: 'http://localhost:3000/api'...}" />
-              <marker date="1511315096910" expanded="true" signature="1665:2621" ph="{...}" />
-              <marker date="1511315096910" expanded="true" signature="1939:2521" ph="{&quot;id&quot;: 1002...}" />
-              <marker date="1511315096910" expanded="true" signature="2050:2242" ph="{...}" />
-              <marker date="1511315096910" expanded="true" signature="2287:2502" ph="{...}" />
-              <marker date="1511315096910" expanded="true" signature="2679:2746" ph="{...}" />
-              <marker date="1511315096910" expanded="true" signature="2789:3111" ph="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1066,7 +1002,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="189">
             <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1077,38 +1012,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1848">
             <caret line="88" column="44" lean-forward="false" selection-start-line="88" selection-start-column="44" selection-end-line="88" selection-end-column="44" />
-            <folding>
-              <marker date="1509966375235" expanded="true" signature="418:5931" ph="..." />
-              <marker date="1509966375235" expanded="true" signature="425:487" ph="..." />
-              <marker date="1509966375235" expanded="true" signature="495:506" ph="..." />
-              <marker date="1509966375235" expanded="true" signature="513:5923" ph="..." />
-              <marker date="1509966375235" expanded="true" signature="530:1901" ph="..." />
-              <marker date="1509966375235" expanded="true" signature="2037:5915" ph="..." />
-              <marker date="1509966375235" expanded="true" signature="2389:2892" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="2410:2650" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="2511:2640" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="2664:2886" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="2765:2876" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="2929:3057" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="2989:3051" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="3094:3221" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="3154:3215" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="3262:4303" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="3264:3444" ph="//..." />
-              <marker date="1509966375235" expanded="true" signature="3515:4124" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="3765:3854" ph="//..." />
-              <marker date="1509966375235" expanded="true" signature="4125:4297" ph="//..." />
-              <marker date="1509966375235" expanded="true" signature="4342:4445" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="4484:4573" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="4718:5903" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="4760:5896" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="4787:5886" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="4960:5639" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="5191:5613" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="5269:5518" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="5675:5813" ph="{...}" />
-              <marker date="1509966375235" expanded="true" signature="5814:5872" ph="//..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1119,22 +1022,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1827">
             <caret line="87" column="7" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="87" selection-end-column="7" />
-            <folding>
-              <marker date="1510296021864" expanded="true" signature="304:2487" ph="..." />
-              <marker date="1510296021864" expanded="true" signature="311:2023" ph="..." />
-              <marker date="1510296021864" expanded="true" signature="449:2015" ph="..." />
-              <marker date="1510296021864" expanded="true" signature="541:891" ph="{...}" />
-              <marker date="1510296021864" expanded="true" signature="648:842" ph="{...}" />
-              <marker date="1510296021864" expanded="true" signature="708:828" ph="{...}" />
-              <marker date="1510296021864" expanded="true" signature="935:1083" ph="{...}" />
-              <marker date="1510296021864" expanded="true" signature="1129:1349" ph="{...}" />
-              <marker date="1510296021864" expanded="true" signature="1188:1298" ph="{...}" />
-              <marker date="1510296021864" expanded="true" signature="1389:2000" ph="{...}" />
-              <marker date="1510296021864" expanded="true" signature="1504:1597" ph="{...}" />
-              <marker date="1510296021864" expanded="true" signature="1682:1794" ph="{...}" />
-              <marker date="1510296021864" expanded="true" signature="1878:1988" ph="{...}" />
-              <marker date="1510296021864" expanded="true" signature="2030:2478" ph="..." />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1145,7 +1032,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="301">
             <caret line="152" column="22" lean-forward="true" selection-start-line="152" selection-start-column="22" selection-end-line="152" selection-end-column="22" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1155,7 +1041,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1133">
           <caret line="135" column="12" lean-forward="false" selection-start-line="135" selection-start-column="12" selection-end-line="135" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1163,7 +1048,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
           <caret line="72" column="49" lean-forward="false" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1172,7 +1056,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="84">
             <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1183,15 +1066,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="336">
             <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-            <folding>
-              <marker date="1511680584365" expanded="true" signature="541:694" ph="{&quot;host&quot;: '127.0.0.1'...}" />
-              <marker date="1511680584365" expanded="true" signature="698:794" ph="//..." />
-              <marker date="1511680584365" expanded="true" signature="856:929" ph="{...}" />
-              <marker date="1511680584365" expanded="true" signature="888:925" ph="{...}" />
-              <marker date="1511680584365" expanded="true" signature="1100:1146" ph="{...}" />
-              <marker date="1511680584365" expanded="true" signature="1265:1423" ph="{...}" />
-              <marker date="1511680584365" expanded="true" signature="1537:1581" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -1202,7 +1076,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="588">
             <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1212,7 +1085,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1221,7 +1093,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="21">
             <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1232,18 +1103,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="609">
             <caret line="29" column="10" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-28-[Vue]개발환경.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="567">
-            <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1253,18 +1112,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/`2017-11-27-[Vue]참고자료.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="231">
-            <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="93" lean-forward="true" selection-start-line="3" selection-start-column="93" selection-end-line="3" selection-end-column="93" />
         </state>
       </provider>
     </entry>
@@ -1273,17 +1127,36 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="315">
             <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/`2017-11-29-[Vue]디렉티브_인스턴스.md">
+    <entry file="file://$PROJECT_DIR$/_posts/`2017-11-27-[Vue]참고자료.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="462">
-            <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <first_editor relative-caret-position="231">
+            <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-28-[Vue]개발환경.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="398">
+            <caret line="27" column="20" lean-forward="false" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-29-[Vue]디렉티브.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="5271">
+            <caret line="251" column="27" lean-forward="false" selection-start-line="251" selection-start-column="26" selection-end-line="251" selection-end-column="27" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1293,8 +1166,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <first_editor relative-caret-position="4200">
+            <caret line="200" column="53" lean-forward="false" selection-start-line="200" selection-start-column="53" selection-end-line="200" selection-end-column="53" />
             <folding />
           </first_editor>
           <second_editor />
