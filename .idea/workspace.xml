@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md" afterPath="$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,7 +32,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="315">
-                <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+                <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -131,7 +131,6 @@
         <option value="$PROJECT_DIR$/_posts/2017-11-23-[Node][Spring]Conn.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-24-[보안]웹환경정보보안.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-24-[security]웹환경정보보안.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_posts/2017-11-28-[Vue]개발환경.md" />
         <option value="$PROJECT_DIR$/_posts/`2017-11-29-[Vue]인스턴스.md" />
@@ -140,6 +139,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-11-29-[Vue]디렉티브.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md" />
         <option value="$PROJECT_DIR$/_posts/`2017-11-27-[Vue]참고자료.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md" />
       </list>
     </option>
   </component>
@@ -315,14 +315,7 @@
       <workItem from="1511792978591" duration="9154000" />
       <workItem from="1511918588264" duration="834000" />
       <workItem from="1512006220048" duration="7869000" />
-      <workItem from="1512115377287" duration="852000" />
-    </task>
-    <task id="LOCAL-00069" summary="java Annotation Update">
-      <created>1508979795094</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1508979795095</updated>
+      <workItem from="1512115377287" duration="865000" />
     </task>
     <task id="LOCAL-00070" summary="java Annotation Update">
       <created>1508980178328</created>
@@ -660,11 +653,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512043137988</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="Vue 디렉티브 인스턴스">
+      <created>1512119175447</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1512119175447</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183731000" />
+    <option name="totallyTimeSpent" value="183744000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1170,7 +1170,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="315">
-            <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />
