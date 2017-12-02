@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md" afterPath="$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md" afterPath="$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,13 +26,13 @@
     <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="2017-11-27-[Vue]참고자료.md" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="2017-11-27-[Vue]참고자료.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <first_editor relative-caret-position="84">
+                <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -46,6 +46,19 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="315">
                 <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-11-29-[Vue]인스턴스.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="226">
+                <caret line="185" column="0" lean-forward="true" selection-start-line="184" selection-start-column="16" selection-end-line="185" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -137,9 +150,9 @@
         <option value="$PROJECT_DIR$/_posts/`2017-11-29-[Vue]디렉티브_인스턴스.md" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/_posts/2017-11-29-[Vue]디렉티브.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md" />
         <option value="$PROJECT_DIR$/_posts/`2017-11-27-[Vue]참고자료.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md" />
       </list>
     </option>
   </component>
@@ -156,11 +169,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1937" />
-    <option name="y" value="26" />
-    <option name="width" value="1680" />
-    <option name="height" value="1027" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1177" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -196,7 +208,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,11 +220,30 @@
               <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GithubBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GithubBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GithubBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="[Vue]instance" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,14 +345,8 @@
       <workItem from="1511792978591" duration="9154000" />
       <workItem from="1511918588264" duration="834000" />
       <workItem from="1512006220048" duration="7869000" />
-      <workItem from="1512115377287" duration="865000" />
-    </task>
-    <task id="LOCAL-00070" summary="java Annotation Update">
-      <created>1508980178328</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1508980178328</updated>
+      <workItem from="1512115377287" duration="884000" />
+      <workItem from="1512191215787" duration="72000" />
     </task>
     <task id="LOCAL-00071" summary="javascript cardGame">
       <created>1509671060394</created>
@@ -660,11 +684,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512119175447</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="Vue 디렉티브 인스턴스">
+      <created>1512119186657</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1512119186658</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183744000" />
+    <option name="totallyTimeSpent" value="183835000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -676,18 +707,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1937" y="26" width="1680" height="1027" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1177" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19770946" sideWeight="0.4937107" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17272249" sideWeight="0.4937107" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27682403" sideWeight="0.5022479" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31441048" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27016884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22696155" sideWeight="0.5062893" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -737,16 +768,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/`2017-10-11-Spring_Web2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="6006">
-            <caret line="286" column="3" lean-forward="true" selection-start-line="286" selection-start-column="3" selection-end-line="286" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-[Spring]MVC.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1133,23 +1154,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="147">
-            <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-29-[Vue]디렉티브.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="220">
             <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1169,8 +1178,24 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <first_editor relative-caret-position="84">
+            <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/[Vue]instance/lifecycle.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="226">
+            <caret line="185" column="0" lean-forward="true" selection-start-line="184" selection-start-column="16" selection-end-line="185" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
