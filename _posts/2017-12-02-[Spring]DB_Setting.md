@@ -14,15 +14,15 @@ comments : true
 
  * 새로운 계정을 생성해서 그 `Schema`에만 권한을 줘서 다른 `Schema`에 접근 못하도록 만들것입니다.
  
-1. `Users and Privileges`에 들어가서 
+    * `Users and Privileges`에 들어가서 
 
     ![adduser](/assets/images/DBsetting/add0.png)
 
-2. 왼쪽아래 `Add Account`로 새로운 계정을 생성합니다.
+    * 왼쪽아래 `Add Account`로 새로운 계정을 생성합니다.
 
     ![adduser](/assets/images/DBsetting/add1.png)
 
-3. 계정 정보를 등록합니다.
+    * 계정 정보를 등록합니다.
 
     ![adduser](/assets/images/DBsetting/add2.png)
 
@@ -31,11 +31,11 @@ comments : true
 
 * 다음 DB(Schema) 를 생성하고 생성한 계정에 권한을 부여 할 것입니다. 앞서 `Schema`을 만듭니다.
 
-1. `Create Schema` 를 선택하고
+    * `Create Schema` 를 선택하고
  
     ![Create Schema](/assets/images/DBsetting/createSchema.png)
 
-2. 적당한 이름을 주고 `Schema` 를 생성합니다.
+    * 적당한 이름을 주고 `Schema` 를 생성합니다.
 
     ![Create Schema](/assets/images/DBsetting/createSchema2.png)
 
@@ -44,19 +44,19 @@ comments : true
 
 * 전에 계정에 `Schema`에 대한 권한을 추가합니다. tj 계정에 tj 테이블의 권한을 추가합니다.
 
-1. User 로 다시 가서 `Schema Privileges` 탭에 `Add Entity`를 누르고
+    * User 로 다시 가서 `Schema Privileges` 탭에 `Add Entity`를 누르고
 
     ![permission](/assets/images/DBsetting/permission2.png)
 
-3. `Selected schea` 에서 원하는 `Schema` 를 선택합니다.
+    * `Selected schea` 에서 원하는 `Schema` 를 선택합니다.
 
     ![permission](/assets/images/DBsetting/permission3.png)
 
-4. 아래쪽에 권한을 추가하는 탭이 활성화 되고 `Seletct "All"`을 선택해서 모든 권한을 부여합니다.
+    * 아래쪽에 권한을 추가하는 탭이 활성화 되고 `Seletct "All"`을 선택해서 모든 권한을 부여합니다.
 
     ![permission](/assets/images/DBsetting/permission4.png)
 
-5. 모든 권한을 선택하고 `Apply` 하면 된다. 
+    * 모든 권한을 선택하고 `Apply` 하면 된다. 
 
     ![permission](/assets/images/DBsetting/permission5.png)
 
@@ -66,7 +66,7 @@ comments : true
 
 * Spring 에서 mysql 로 접속 하는 방법
 
-1. mvn dependency 추가
+* mvn dependency 추가
 
 **pom.xml**
 
@@ -101,7 +101,7 @@ comments : true
         
 ```
 
-2. `applicationContext.xml`에 Mysql 주소, username, password 추가
+* `applicationContext.xml`에 Mysql 주소, username, password 추가
 
 **applicationContext.xml**
 
@@ -121,7 +121,7 @@ comments : true
 ```
 
 
-3. java로 데이터 소스 연결 되는지 확인
+* java로 데이터 소스 연결 되는지 확인
 
 **DataSourceTest.jaa**
 
@@ -158,7 +158,7 @@ public class DataSourceTest {
 
 ## Mybatis Test
 
-1. `mybatis-config.xml` 생성
+* `mybatis-config.xml` 생성
 
     **mybatis-config.xml**
 
@@ -174,7 +174,7 @@ public class DataSourceTest {
 
 ```
 
-2. `applicationContext.xml`에 sqlSessionFactory 추가, `mybatis-config.xml` 에 연결
+* `applicationContext.xml`에 sqlSessionFactory 추가, `mybatis-config.xml` 에 연결
 
     **applicationContext.xml**
 
@@ -188,7 +188,7 @@ public class DataSourceTest {
 
 ```
 
-3. `MybatisTest.java`에서 테스트
+* `MybatisTest.java`에서 테스트
 
     **MybatisTest.java**
 
