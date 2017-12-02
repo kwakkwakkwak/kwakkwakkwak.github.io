@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
+    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="Vue 디렉티브 인스턴스ㅏ">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md" afterPath="$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md" />
     </list>
@@ -31,18 +31,18 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1868">
-                <caret line="106" column="26" lean-forward="true" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="26" />
+              <first_editor relative-caret-position="93">
+                <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
                 <folding>
-                  <marker date="1512203100283" expanded="true" signature="1423:1512" ph="..." />
-                  <marker date="1512203100283" expanded="true" signature="1535:1690" ph="..." />
-                  <marker date="1512203100283" expanded="true" signature="1783:1930" ph="..." />
-                  <marker date="1512203100283" expanded="true" signature="2030:2184" ph="..." />
-                  <marker date="1512203100283" expanded="true" signature="2319:2503" ph="..." />
-                  <marker date="1512203100283" expanded="true" signature="2637:3040" ph="..." />
-                  <marker date="1512203100283" expanded="true" signature="2830:2911" ph="..." />
-                  <marker date="1512203100283" expanded="true" signature="4084:4102" ph="..." />
-                  <marker date="1512203100283" expanded="true" signature="4301:4459" ph="..." />
+                  <marker date="1512203161992" expanded="true" signature="1424:1513" ph="..." />
+                  <marker date="1512203161992" expanded="true" signature="1536:1691" ph="..." />
+                  <marker date="1512203161992" expanded="true" signature="1784:1931" ph="..." />
+                  <marker date="1512203161992" expanded="true" signature="2031:2185" ph="..." />
+                  <marker date="1512203161992" expanded="true" signature="2320:2504" ph="..." />
+                  <marker date="1512203161992" expanded="true" signature="2638:3041" ph="..." />
+                  <marker date="1512203161992" expanded="true" signature="2831:2912" ph="..." />
+                  <marker date="1512203161992" expanded="true" signature="4085:4103" ph="..." />
+                  <marker date="1512203161992" expanded="true" signature="4302:4460" ph="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -331,13 +331,6 @@
       <workItem from="1512006220048" duration="7869000" />
       <workItem from="1512115377287" duration="884000" />
       <workItem from="1512191215787" duration="72000" />
-    </task>
-    <task id="LOCAL-00072" summary="javascript cardGame">
-      <created>1509671201271</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1509671201271</updated>
     </task>
     <task id="LOCAL-00073" summary="javascript cardGame">
       <created>1509671702036</created>
@@ -675,11 +668,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512198202891</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="Vue 디렉티브 인스턴스">
+      <created>1512203134239</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1512203134240</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188783000" />
+    <option name="totallyTimeSpent" value="188817000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1188,18 +1188,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1868">
-            <caret line="106" column="26" lean-forward="true" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="26" />
+          <first_editor relative-caret-position="93">
+            <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             <folding>
-              <marker date="1512203100283" expanded="true" signature="1423:1512" ph="..." />
-              <marker date="1512203100283" expanded="true" signature="1535:1690" ph="..." />
-              <marker date="1512203100283" expanded="true" signature="1783:1930" ph="..." />
-              <marker date="1512203100283" expanded="true" signature="2030:2184" ph="..." />
-              <marker date="1512203100283" expanded="true" signature="2319:2503" ph="..." />
-              <marker date="1512203100283" expanded="true" signature="2637:3040" ph="..." />
-              <marker date="1512203100283" expanded="true" signature="2830:2911" ph="..." />
-              <marker date="1512203100283" expanded="true" signature="4084:4102" ph="..." />
-              <marker date="1512203100283" expanded="true" signature="4301:4459" ph="..." />
+              <marker date="1512203161992" expanded="true" signature="1424:1513" ph="..." />
+              <marker date="1512203161992" expanded="true" signature="1536:1691" ph="..." />
+              <marker date="1512203161992" expanded="true" signature="1784:1931" ph="..." />
+              <marker date="1512203161992" expanded="true" signature="2031:2185" ph="..." />
+              <marker date="1512203161992" expanded="true" signature="2320:2504" ph="..." />
+              <marker date="1512203161992" expanded="true" signature="2638:3041" ph="..." />
+              <marker date="1512203161992" expanded="true" signature="2831:2912" ph="..." />
+              <marker date="1512203161992" expanded="true" signature="4085:4103" ph="..." />
+              <marker date="1512203161992" expanded="true" signature="4302:4460" ph="..." />
             </folding>
           </first_editor>
           <second_editor />
