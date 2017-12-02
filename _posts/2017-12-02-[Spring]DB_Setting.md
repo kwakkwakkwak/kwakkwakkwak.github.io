@@ -61,11 +61,15 @@ comments : true
 
 ![permission](/assets/images/DBsetting/permission5.png)
 
-# Spring 에서 계정 접속
+# Spring Test
+
+## DataSource Test
 
 * Spring 에서 mysql 로 접속 하는 방법
 
 1. mvn dependency 추가
+
+**pom.xml**
 
 ```xml
 
@@ -98,7 +102,9 @@ comments : true
         
 ```
 
-2. applicationContext.xml 추가
+2. `applicationContext.xml`에 Mysql 주소, username, password 추가
+
+**applicationContext.xml**
 
 ```xml
 <bean id="dataSource"
@@ -117,6 +123,8 @@ comments : true
 
 
 3. java로 데이터 소스 연결 되는지 확인
+
+**DataSourceTest.jaa**
 
 ```java
 import org.junit.Test;
@@ -147,3 +155,77 @@ public class DataSourceTest {
     }
 
 }
+```
+
+## Mybatis Test
+
+1. `mybatis-config.xml` 생성
+
+**mybatis-config.xml**
+
+```xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+		<!DOCTYPE configuration
+				PUBLIC "-//mybatis.org/DTD Config 3.0/EN"
+				"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+</configuration>
+
+```
+
+2. `applicationContext.xml`에 sqlSessionFactory 추가, `mybatis-config.xml` 에 연결
+
+**applicationContext.xml**
+
+```xml
+
+<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="dataSource" ref="dataSource" />
+        <property name="configLocation" value="classpath:/mybatis-config.xml"></property>
+    </bean>
+
+
+```
+
+3. `MybatisTest.java`에서 테스트
+
+**MybatisTest.java**
+
+```java
+
+import org.apache.ibatis.session.SqlSession;
+import org.apache.ibatis.session.SqlSessionFactory;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.test.context.ContextConfiguration;
+import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+
+import javax.inject.Inject;
+
+@RunWith(SpringJUnit4ClassRunner.class)
+@ContextConfiguration(locations = {"file:src/main/webapp/WEB-INF/**/applicationContext.xml"})
+public class MybatisTest {
+
+    @Inject
+    private SqlSessionFactory sqlFactory;
+
+    @Test
+    public void testFactory() {
+        System.out.println(sqlFactory);
+    }
+
+    @Test
+    public void testSession()throws Exception{
+        try(SqlSession session = sqlFactory.openSession()){
+            System.out.println(session);
+        }catch(Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+}
+
+
+```

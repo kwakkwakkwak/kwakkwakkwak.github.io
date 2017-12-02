@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/DBsetting/Connection.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/DBsetting/add0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/DBsetting/add1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/DBsetting/add2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/DBsetting/createSchema.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/DBsetting/createSchema2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/DBsetting/permission1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/DBsetting/permission2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/DBsetting/permission3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/DBsetting/permission4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/DBsetting/permission5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md" afterPath="$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,17 +31,32 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="457">
-                <caret line="146" column="5" lean-forward="true" selection-start-line="146" selection-start-column="5" selection-end-line="146" selection-end-column="5" />
+              <first_editor relative-caret-position="-1868">
+                <caret line="106" column="26" lean-forward="true" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="26" />
                 <folding>
-                  <marker date="1512198167660" expanded="true" signature="1394:1483" ph="..." />
-                  <marker date="1512198167660" expanded="true" signature="1506:1661" ph="..." />
-                  <marker date="1512198167660" expanded="true" signature="1754:1901" ph="..." />
-                  <marker date="1512198167660" expanded="true" signature="2001:2155" ph="..." />
-                  <marker date="1512198167660" expanded="true" signature="2290:2474" ph="..." />
-                  <marker date="1512198167660" expanded="true" signature="2548:2951" ph="..." />
-                  <marker date="1512198167660" expanded="true" signature="2741:2822" ph="..." />
+                  <marker date="1512203100283" expanded="true" signature="1423:1512" ph="..." />
+                  <marker date="1512203100283" expanded="true" signature="1535:1690" ph="..." />
+                  <marker date="1512203100283" expanded="true" signature="1783:1930" ph="..." />
+                  <marker date="1512203100283" expanded="true" signature="2030:2184" ph="..." />
+                  <marker date="1512203100283" expanded="true" signature="2319:2503" ph="..." />
+                  <marker date="1512203100283" expanded="true" signature="2637:3040" ph="..." />
+                  <marker date="1512203100283" expanded="true" signature="2830:2911" ph="..." />
+                  <marker date="1512203100283" expanded="true" signature="4084:4102" ph="..." />
+                  <marker date="1512203100283" expanded="true" signature="4301:4459" ph="..." />
                 </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="`2017-10-11-Error_Note.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/`2017-10-11-Error_Note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="231">
+                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -218,17 +222,6 @@
               <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
               <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="GithubBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GithubBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -248,7 +241,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="SearchEverywhereHistoryKey" value="search&#9;null&#9;null" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.8.1" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/_posts/`2017-10-18-Spring_Book_part2.md&#10;/Users/kwak/WebstormProjects/GithubBlog/_posts/`2017-11-27-[Vue]참고자료.md&#10;/Users/kwak/WebstormProjects/GithubBlog/_posts/`2017-11-29-[Vue]인스턴스.md&#10;/Users/kwak/WebstormProjects/GithubBlog/_posts/`2017-11-29-[Vue]디렉티브_인스턴스.md" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/_posts/`2017-10-18-Spring_Book_part2.md&#10;/Users/kwak/WebstormProjects/GithubBlog/_posts/`2017-11-27-[Vue]참고자료.md&#10;/Users/kwak/WebstormProjects/GithubBlog/_posts/`2017-11-29-[Vue]인스턴스.md&#10;/Users/kwak/WebstormProjects/GithubBlog/_posts/`2017-10-11-Error_Note.md&#10;/Users/kwak/WebstormProjects/GithubBlog/_posts/`2017-11-29-[Vue]디렉티브_인스턴스.md" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -338,13 +331,6 @@
       <workItem from="1512006220048" duration="7869000" />
       <workItem from="1512115377287" duration="884000" />
       <workItem from="1512191215787" duration="72000" />
-    </task>
-    <task id="LOCAL-00071" summary="javascript cardGame">
-      <created>1509671060394</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1509671060394</updated>
     </task>
     <task id="LOCAL-00072" summary="javascript cardGame">
       <created>1509671201271</created>
@@ -682,11 +668,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512119186658</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="Vue 디렉티브 인스턴스">
+      <created>1512198202891</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1512198202891</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186829000" />
+    <option name="totallyTimeSpent" value="188783000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -768,16 +761,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-02-[Spring]MVC.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1218">
-            <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-18-[Spring]Book_Setting.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -999,16 +982,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/`2017-10-11-Error_Note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="21">
-            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="7" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-21-[Node]RPC.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1196,6 +1169,38 @@
           <first_editor relative-caret-position="226">
             <caret line="185" column="0" lean-forward="true" selection-start-line="184" selection-start-column="16" selection-end-line="185" selection-end-column="0" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/`2017-10-11-Error_Note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="231">
+            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1868">
+            <caret line="106" column="26" lean-forward="true" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="26" />
+            <folding>
+              <marker date="1512203100283" expanded="true" signature="1423:1512" ph="..." />
+              <marker date="1512203100283" expanded="true" signature="1535:1690" ph="..." />
+              <marker date="1512203100283" expanded="true" signature="1783:1930" ph="..." />
+              <marker date="1512203100283" expanded="true" signature="2030:2184" ph="..." />
+              <marker date="1512203100283" expanded="true" signature="2319:2503" ph="..." />
+              <marker date="1512203100283" expanded="true" signature="2637:3040" ph="..." />
+              <marker date="1512203100283" expanded="true" signature="2830:2911" ph="..." />
+              <marker date="1512203100283" expanded="true" signature="4084:4102" ph="..." />
+              <marker date="1512203100283" expanded="true" signature="4301:4459" ph="..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
