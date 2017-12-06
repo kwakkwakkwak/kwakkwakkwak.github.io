@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="Spring DB 연결, 테스트">
+    <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-12-03-[Spring]게시판crud.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md" afterPath="$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md" />
     </list>
@@ -27,22 +28,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-12-02-[Spring]DB_Setting.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-12-02-[Spring]DB_Setting.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="360">
-                <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+              <first_editor relative-caret-position="105">
+                <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
                 <folding>
-                  <marker date="1512204587408" expanded="true" signature="1485:1574" ph="..." />
-                  <marker date="1512204587408" expanded="true" signature="1597:1752" ph="..." />
-                  <marker date="1512204587408" expanded="true" signature="1845:1992" ph="..." />
-                  <marker date="1512204587408" expanded="true" signature="2092:2246" ph="..." />
-                  <marker date="1512204587408" expanded="true" signature="2381:2565" ph="..." />
-                  <marker date="1512204587408" expanded="true" signature="2698:3101" ph="..." />
-                  <marker date="1512204587408" expanded="true" signature="2891:2972" ph="..." />
-                  <marker date="1512204587408" expanded="true" signature="4147:4165" ph="..." />
-                  <marker date="1512204587408" expanded="true" signature="4367:4525" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="1493:1582" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="1605:1760" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="1853:2000" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="2100:2254" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="2389:2573" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="2706:3109" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="2899:2980" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="4155:4173" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="4375:4533" ph="..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -50,15 +51,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="`2017-10-11-Error_Note.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/`2017-10-11-Error_Note.md">
+      <file leaf-file-name="2017-12-03-[Spring]게시판crud.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-12-03-[Spring]게시판crud.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="231">
-                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-                <folding />
+              <first_editor relative-caret-position="3318">
+                <caret line="158" column="40" lean-forward="false" selection-start-line="158" selection-start-column="40" selection-end-line="158" selection-end-column="40" />
+                <folding>
+                  <marker date="1512564720065" expanded="true" signature="1266:3338" ph="..." />
+                  <marker date="1512564720065" expanded="true" signature="1291:1597" ph="..." />
+                  <marker date="1512564720065" expanded="true" signature="1647:2143" ph="..." />
+                  <marker date="1512564720065" expanded="true" signature="2203:2680" ph="..." />
+                  <marker date="1512564720065" expanded="true" signature="2727:3055" ph="..." />
+                  <marker date="1512564720065" expanded="true" signature="3081:3229" ph="..." />
+                  <marker date="1512564720065" expanded="true" signature="3255:3327" ph="..." />
+                </folding>
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tj.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/tj.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="612" column="16" lean-forward="false" selection-start-line="612" selection-start-column="16" selection-end-line="612" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -69,6 +88,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="MarkDownTemplate" />
+        <option value="XSLT Stylesheet" />
         <option value="Blog_Tempalte" />
       </list>
     </option>
@@ -86,11 +106,13 @@
       <find>page.</find>
       <find>search</find>
       <find>about</find>
+      <find>홍길동</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>SpringBookSetting</replace>
       <replace>./resource</replace>
+      <replace>김원식</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -99,8 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2017-09-14-[HTML]Markup_Tip.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-10-18-[Spring]Book_Setting.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-03-[Disques]disqus.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-03-[Disques]Setting.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-12-[HTML]구조.md" />
@@ -150,6 +170,8 @@
         <option value="$PROJECT_DIR$/_posts/2017-12-02-[DB]Workbentch설정.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB설정.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md" />
+        <option value="$USER_HOME$/Downloads/tj.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-12-03-[Spring]게시판crud.md" />
       </list>
     </option>
   </component>
@@ -167,9 +189,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1786" />
-    <option name="height" value="1177" />
+    <option name="x" value="316" />
+    <option name="y" value="28" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -205,6 +228,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,12 +247,28 @@
               <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
               <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GithubBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GithubBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GithubBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GithubBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jsCardGame" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,13 +372,7 @@
       <workItem from="1512006220048" duration="7869000" />
       <workItem from="1512115377287" duration="884000" />
       <workItem from="1512191215787" duration="72000" />
-    </task>
-    <task id="LOCAL-00075" summary="Post structure Update">
-      <created>1509689714014</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1509689714015</updated>
+      <workItem from="1512564129043" duration="593000" />
     </task>
     <task id="LOCAL-00076" summary="node js">
       <created>1509860119598</created>
@@ -675,11 +710,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512204392542</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="Spring DB 연결, 테스트">
+      <created>1512204607599</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1512204607599</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189901000" />
+    <option name="totallyTimeSpent" value="195595000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -691,35 +733,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1786" height="1177" extended-state="0" />
+    <frame x="316" y="28" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18583569" sideWeight="0.4937107" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19770946" sideWeight="0.4937107" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27682403" sideWeight="0.5022479" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26923078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31330472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22696155" sideWeight="0.5062893" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27682403" sideWeight="0.5022479" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27016884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17272249" sideWeight="0.4937107" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994455" sideWeight="0.4977521" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22696155" sideWeight="0.5062893" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -761,26 +794,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-18-[Spring]Book_Setting.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-17-[Node][Android]연동.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="84">
-            <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-16-[Node]Express.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1039,13 +1052,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/src/jsCardGame/card.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="72" column="49" lean-forward="false" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-19-[Node]MongoDB.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1152,7 +1158,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="84">
             <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1168,9 +1173,15 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="226">
             <caret line="185" column="0" lean-forward="true" selection-start-line="184" selection-start-column="16" selection-end-line="185" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/jsCardGame/card.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="85" column="35" lean-forward="false" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1179,27 +1190,53 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="231">
             <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/tj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="612" column="16" lean-forward="false" selection-start-line="612" selection-start-column="16" selection-end-line="612" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <first_editor relative-caret-position="105">
+            <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
             <folding>
-              <marker date="1512204587408" expanded="true" signature="1485:1574" ph="..." />
-              <marker date="1512204587408" expanded="true" signature="1597:1752" ph="..." />
-              <marker date="1512204587408" expanded="true" signature="1845:1992" ph="..." />
-              <marker date="1512204587408" expanded="true" signature="2092:2246" ph="..." />
-              <marker date="1512204587408" expanded="true" signature="2381:2565" ph="..." />
-              <marker date="1512204587408" expanded="true" signature="2698:3101" ph="..." />
-              <marker date="1512204587408" expanded="true" signature="2891:2972" ph="..." />
-              <marker date="1512204587408" expanded="true" signature="4147:4165" ph="..." />
-              <marker date="1512204587408" expanded="true" signature="4367:4525" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="1493:1582" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="1605:1760" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="1853:2000" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="2100:2254" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="2389:2573" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="2706:3109" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="2899:2980" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="4155:4173" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="4375:4533" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-03-[Spring]게시판crud.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3318">
+            <caret line="158" column="40" lean-forward="false" selection-start-line="158" selection-start-column="40" selection-end-line="158" selection-end-column="40" />
+            <folding>
+              <marker date="1512564720065" expanded="true" signature="1266:3338" ph="..." />
+              <marker date="1512564720065" expanded="true" signature="1291:1597" ph="..." />
+              <marker date="1512564720065" expanded="true" signature="1647:2143" ph="..." />
+              <marker date="1512564720065" expanded="true" signature="2203:2680" ph="..." />
+              <marker date="1512564720065" expanded="true" signature="2727:3055" ph="..." />
+              <marker date="1512564720065" expanded="true" signature="3081:3229" ph="..." />
+              <marker date="1512564720065" expanded="true" signature="3255:3327" ph="..." />
             </folding>
           </first_editor>
           <second_editor />

@@ -17,7 +17,7 @@ comments : true
     * `Users and Privileges`에 들어가서 
 
     ![adduser](/assets/images/DBsetting/add0.png)
-
+        
     * 왼쪽아래 `Add Account`로 새로운 계정을 생성합니다.
 
     ![adduser](/assets/images/DBsetting/add1.png)
