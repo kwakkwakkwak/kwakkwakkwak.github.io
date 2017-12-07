@@ -10,5 +10,5 @@ Thumbs.db
 .rvmrc
 
 *.lock
-.idea/fileTemplates/
 `*.*
+.idea/
