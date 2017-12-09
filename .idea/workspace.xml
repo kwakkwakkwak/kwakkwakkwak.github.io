@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9093f898-be08-4d0a-9d66-b0e269f64102" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-12-09-[Spring][Vue]게시판페이지.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md" afterPath="$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,6 +27,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="2017-12-02-[Spring]DB_Setting.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+                <folding>
+                  <marker date="1512208423533" expanded="true" signature="1493:1582" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="1605:1760" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="1853:2000" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="2100:2254" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="2389:2573" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="2706:3109" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="2899:2980" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="4155:4173" ph="..." />
+                  <marker date="1512208423533" expanded="true" signature="4375:4533" ph="..." />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="`2017-10-18-Spring_Book_part2.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/`2017-10-18-Spring_Book_part2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -40,15 +63,62 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-12-09-[Spring][Vue]게시판페이지.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-12-03-[Spring]게시판crud.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-12-03-[Spring]게시판crud.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="171">
+                <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+                <folding>
+                  <marker date="1512564720065" expanded="true" signature="1266:3338" ph="..." />
+                  <marker date="1512564720065" expanded="true" signature="1291:1597" ph="..." />
+                  <marker date="1512564720065" expanded="true" signature="1647:2143" ph="..." />
+                  <marker date="1512564720065" expanded="true" signature="2203:2680" ph="..." />
+                  <marker date="1512564720065" expanded="true" signature="2727:3055" ph="..." />
+                  <marker date="1512564720065" expanded="true" signature="3081:3229" ph="..." />
+                  <marker date="1512564720065" expanded="true" signature="3255:3327" ph="..." />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-12-09-[Spring][Vue]게시판페이지.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-12-09-[Spring][Vue]게시판페이지.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1617">
-                <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+              <first_editor relative-caret-position="294">
+                <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
                 <folding>
                   <marker date="1512815122099" expanded="true" signature="395:520" ph="..." />
                 </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-11-29-[Vue]인스턴스.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="226">
+                <caret line="185" column="0" lean-forward="true" selection-start-line="184" selection-start-column="16" selection-end-line="185" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-11-27-[Vue]참고자료.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="357">
+                <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -137,7 +207,6 @@
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/_posts/2017-11-29-[Vue]디렉티브.md" />
         <option value="$PROJECT_DIR$/_posts/`2017-11-27-[Vue]참고자료.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-02-[DB]Workbentch설정.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB설정.md" />
@@ -145,6 +214,7 @@
         <option value="$USER_HOME$/Downloads/tj.html" />
         <option value="$PROJECT_DIR$/_posts/2017-12-03-[Spring]게시판crud.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-09-[Spring][Vue]게시판페이지.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md" />
       </list>
     </option>
   </component>
@@ -323,13 +393,6 @@
       <workItem from="1512115377287" duration="884000" />
       <workItem from="1512191215787" duration="72000" />
       <workItem from="1512564129043" duration="1430000" />
-    </task>
-    <task id="LOCAL-00078" summary="jquery-checkbox">
-      <created>1509966647580</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1509966647580</updated>
     </task>
     <task id="LOCAL-00079" summary="jquery-checkbox">
       <created>1510013742833</created>
@@ -667,11 +730,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512616502105</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="Spring 에서 JSON 으로 VO 객체 넘기기">
+      <created>1512815141907</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1512815141907</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198545000" />
+    <option name="totallyTimeSpent" value="198680000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -712,7 +782,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="node js" />
     <MESSAGE value="jquery-checkbox" />
     <MESSAGE value="jquery-core" />
     <MESSAGE value="jquery-core update" />
@@ -737,7 +806,8 @@
     <MESSAGE value="Vue 개발환경 설치" />
     <MESSAGE value="Vue 디렉티브 인스턴스" />
     <MESSAGE value="Spring DB 연결, 테스트" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring DB 연결, 테스트" />
+    <MESSAGE value="Spring 에서 JSON 으로 VO 객체 넘기기" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring 에서 JSON 으로 VO 객체 넘기기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1069,29 +1139,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="84">
-            <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/[Vue]instance/lifecycle.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="226">
-            <caret line="185" column="0" lean-forward="true" selection-start-line="184" selection-start-column="16" selection-end-line="185" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/src/jsCardGame/card.html">
@@ -1116,46 +1166,6 @@
         <state relative-caret-position="116">
           <caret line="612" column="16" lean-forward="false" selection-start-line="612" selection-start-column="16" selection-end-line="612" selection-end-column="16" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-            <folding>
-              <marker date="1512208423533" expanded="true" signature="1493:1582" ph="..." />
-              <marker date="1512208423533" expanded="true" signature="1605:1760" ph="..." />
-              <marker date="1512208423533" expanded="true" signature="1853:2000" ph="..." />
-              <marker date="1512208423533" expanded="true" signature="2100:2254" ph="..." />
-              <marker date="1512208423533" expanded="true" signature="2389:2573" ph="..." />
-              <marker date="1512208423533" expanded="true" signature="2706:3109" ph="..." />
-              <marker date="1512208423533" expanded="true" signature="2899:2980" ph="..." />
-              <marker date="1512208423533" expanded="true" signature="4155:4173" ph="..." />
-              <marker date="1512208423533" expanded="true" signature="4375:4533" ph="..." />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-03-[Spring]게시판crud.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-            <folding>
-              <marker date="1512564720065" expanded="true" signature="1266:3338" ph="..." />
-              <marker date="1512564720065" expanded="true" signature="1291:1597" ph="..." />
-              <marker date="1512564720065" expanded="true" signature="1647:2143" ph="..." />
-              <marker date="1512564720065" expanded="true" signature="2203:2680" ph="..." />
-              <marker date="1512564720065" expanded="true" signature="2727:3055" ph="..." />
-              <marker date="1512564720065" expanded="true" signature="3081:3229" ph="..." />
-              <marker date="1512564720065" expanded="true" signature="3255:3327" ph="..." />
-            </folding>
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1189,11 +1199,73 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-09-[Spring][Vue]게시판페이지.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1617">
-            <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <first_editor relative-caret-position="294">
+            <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
             <folding>
               <marker date="1512815122099" expanded="true" signature="395:520" ph="..." />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-03-[Spring]게시판crud.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="171">
+            <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+            <folding>
+              <marker date="1512564720065" expanded="true" signature="1266:3338" ph="..." />
+              <marker date="1512564720065" expanded="true" signature="1291:1597" ph="..." />
+              <marker date="1512564720065" expanded="true" signature="1647:2143" ph="..." />
+              <marker date="1512564720065" expanded="true" signature="2203:2680" ph="..." />
+              <marker date="1512564720065" expanded="true" signature="2727:3055" ph="..." />
+              <marker date="1512564720065" expanded="true" signature="3081:3229" ph="..." />
+              <marker date="1512564720065" expanded="true" signature="3255:3327" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-12-02-[Spring]DB_Setting.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <folding>
+              <marker date="1512208423533" expanded="true" signature="1493:1582" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="1605:1760" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="1853:2000" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="2100:2254" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="2389:2573" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="2706:3109" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="2899:2980" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="4155:4173" ph="..." />
+              <marker date="1512208423533" expanded="true" signature="4375:4533" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-29-[Vue]인스턴스.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="226">
+            <caret line="185" column="0" lean-forward="true" selection-start-line="184" selection-start-column="16" selection-end-line="185" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-27-[Vue]참고자료.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="357">
+            <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
