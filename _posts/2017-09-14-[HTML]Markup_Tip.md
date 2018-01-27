@@ -9,7 +9,6 @@ date: 2017-09-12
 comments : true
 ---
 
-
 # 8가지 올바른 "MarkUp"을 위한 8가지 팁
 
 ## HTML속성에 Lnag 속성값을 넣자
