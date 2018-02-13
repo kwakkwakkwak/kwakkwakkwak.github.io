@@ -59,5 +59,5 @@ comments : true
  | \ | @ResponseBody  | @RequestBody  |
  | --- | --- | --- |
  | Casting | 역직렬화(to Object) | 직렬화(to JSON) |
- | 사용 |  반환 타입 | 매개변수 |
+ | 사용 |  반환 타입 | 매개변수 | 
  
