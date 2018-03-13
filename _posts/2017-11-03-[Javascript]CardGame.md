@@ -15,7 +15,7 @@ comments : true
 
 * 같은 모양의 카드를 뒤집으면 화면에서 뒤집에진 상태가 고정되고, 눌리지 않는다.
 
-<iframe src ='/assets/src/jsCardGame/card.html' width="100%" height="500"></iframe>
+<object data ='/assets/src/jsCardGame/card.html' width="100%" height="500"></object>
 
 # CODE
 
