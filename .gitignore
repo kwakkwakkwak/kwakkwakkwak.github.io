@@ -11,5 +11,9 @@ Thumbs.db
 
 *.lock
 `*.*
-.idea/*
+.idea/workspace.xml
+.idea/fileTemplates/
+.idea/inspectionProfiles/
+.idea/preferred-vcs.xml
+.idea/watcherTasks.xml
 /.idea/workspace.xml
