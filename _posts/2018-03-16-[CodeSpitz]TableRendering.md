@@ -1,5 +1,5 @@
 ---
-title: "[CodeSpitz] Table loading"
+title: "[CodeSpitz] Table rendering"
 description: "javascript 와 json 데이터로 랜더링 해서 화면에 띄워줌"
 categories: 
 tags: 
@@ -21,7 +21,6 @@ comments : true
 * 데이터 유효성검사(?)와 랜더링하는 부분을 나누어서(변화율에 따라) 작성하는 것이 포인트
 
 # Code
-
 
 ## 실행부분
 
@@ -57,8 +56,11 @@ const Data = class {
 
 * 그때! 기본적으로 `json`데이터를 받으니까... 위의 `Data`class 를 상속받아서 구현해보자.
 
-* 여기서 async 예약어는 ...
+* 여기서 `async` 예약어는 원래 `given` `when` `then` 구조의 프로미스 패턴을 (에네르기파 구조) 이쁜 코드로 만들어주는 마법의 예약어이다. 
 
+* 사용법이 어렵....
+
+* 결과값은 `await`로 받는다.
 
 ```javascript
 const JsonData = class extends Data {
@@ -71,7 +73,7 @@ const JsonData = class extends Data {
         async getData() {
             if (typeof  this._data === "string") {
                 const response = await fetch(this._data);
-                return await  response.json();
+                return await response.json();
             } else json = this._data;
             return new Info(json);
         }
