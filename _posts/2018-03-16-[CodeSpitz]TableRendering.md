@@ -189,6 +189,115 @@ const Renderer = class {
  
 ```
 
+## 전체 코드
+```html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test</title>
+</head>
+<body>
+<section id="data">
+</section>
+</body>
+
+<script>
+    const Data = class {
+        async getData() {
+            throw "getData must override";
+        }
+    };
+    const JsonData = class extends Data {
+        constructor(data) {
+            super();
+            this._data = data;
+
+        }
+
+        async getData() {
+            if (typeof  this._data === "string") {
+                const response = await fetch(this._data);
+                return await  response.json();
+            } else json = this._data;
+            return new Info(json);
+        }
+    };
+
+    const Info = class {
+        constructor(json) {
+            const {title, header, items} = json;
+            if (typeof title !== 'string' || !title) throw "invalid title";
+            if (!Array.isArray(header) || !header.length) throw "invalid header";
+            if (!Array.isArray(items) || !items.length) throw "invalid itmes";
+            this._private = {title, header, items};
+        }
+
+        get title() {
+            return this._private.title
+        };
+
+        get header() {
+            return this._private.header
+        };
+
+        get items() {
+            return this._private.items
+        };
+
+    };
+    const Renderer = class {
+        async render(data) {
+            if (!(data instanceof Data)) throw "invalid data type";
+            this._info = await data.getData();
+            this._render();
+        }
+
+        _render() {
+            throw "_render must overrided";
+        }
+    };
+    const TableRenderer = class extends Renderer {
+        constructor(parent) {
+            if (typeof parent != 'string' || !parent) throw "invalid param";
+            super();
+            this._parent = parent;
+        }
+
+        _render() {
+            const parent = document.querySelector(this._parent);
+            if (!parent) throw "invaild parent";
+            parent.innerHTML = "";
+            const [table, caption] = "table,caption".split(",").map(v => document.createElement(v));
+            caption.innerHTML = this._info.title;
+            table.appendChild(caption);
+            table.appendChild(
+                this._info.header.reduce(
+                    (thead, data) => (
+                        thead.appendChild(document.createElement("th")).innerHTML = data, thead),
+                    document.createElement("thead"))
+            );
+            parent.appendChild(
+                this._info.items.reduce(
+                    (table, row) => (table.appendChild(
+                        row.reduce(
+                            (tr, data) => (
+                                tr.appendChild(document.createElement("td")).innerHTML = data, tr),
+                            document.createElement("tr"))
+                    ), table),
+                    table));
+        }
+    };
+    const data = new JsonData("71_1.json");
+    const renderer = new TableRenderer("#data");
+    renderer.render(data);
+</script>
+</html>
+
+```
+
+
 # Practice
 
 ## 1.
@@ -208,3 +317,4 @@ const Renderer = class {
 * 문제가 이해는 되지만 어떻게 접근을 해야할지 1도 모르겠다..
 
 * 객체 협력모델... 디자인 패턴을 공부하보면 되는걸까.. 이것도 나중에...
+
