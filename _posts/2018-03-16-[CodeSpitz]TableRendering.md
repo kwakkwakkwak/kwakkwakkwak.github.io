@@ -16,7 +16,7 @@ comments : true
 
 # Page
 
-<objec width="100%" height="400" data='/assets/src/codespitz/20180308/index.html'></object>
+<object width="100%" height="400" data='/assets/src/codespitz/20180308/index.html'></object>
 
 * 디자인 패턴으로 알고리즘을 대체하자.
 
