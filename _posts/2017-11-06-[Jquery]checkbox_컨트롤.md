@@ -11,7 +11,7 @@ comments : true
 
 * jquery를 이용해서 checkbox 컨트롤
 
-<objec width="100%" height="400" data='/assets/src/jquery/checkbox.html'>
+<object width="100%" height="400" data='/assets/src/jquery/checkbox.html'>
 </object>
 
 # CODE
