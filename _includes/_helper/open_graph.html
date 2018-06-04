@@ -57,6 +57,10 @@
   <meta property="og:title" content="{{ title | xml_escape }}"><!--newline-->
   <meta property="og:url" content="{{ url }}"><!--newline-->
   <meta property="og:site_name" content="{{ site_name | xml_escape }}"><!--newline-->
+  <meta name="FACEBOOK:domain" content="{{ url }}" />
+  <meta name="facebook:domain" content="{{ url }}" />
+  <meta name="facebook:card" content="{{ title | xml_escape }}" />
+  <meta name="facebook:title" content="{{ title | xml_escape }}" />
 
   {% if description %}
     <meta property="og:description" content="{{ description }}">
@@ -81,8 +85,10 @@
   <meta name="twitter:card" content="{{ twitter_card | xml_escape }}"><!--newline-->
   <meta name="twitter:title" content="{{ title | xml_escape }}"><!--newline-->
 
+
   {% if description %}
     <meta name="twitter:description" content="{{ description }}">
+    <meta name="facebook:description" content="{{ description }}" />
     <!--newline-->
   {% endif %}
 
