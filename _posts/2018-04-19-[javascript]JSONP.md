@@ -7,6 +7,23 @@ date: 2018-04-19
 comments : true
 ---
 
+# HTTP 접근 제어 (CROS)
+
+[http 접근제어 MDN web docs](https://developer.mozilla.org/ko/docs/Web/HTTP/Access_control_CORS)
+
+* 처음 전송되는 리소스의 도메인과 다른 도메인으로 부터 리소스가 요청될경우 해당 리소스는 cross-origin HTTP 요청에 의해 요청됨.
+
+* 보안상의 이유로, 브라우저들은 스크립트 내에서 초기화되는 corss-origin HTTP 요청을 제한한다.
+
+* 그래서 API를 이용하는 경우는 jsonp를 이용하여 callback 함수에서 해결하는 방법 `JSONP` 를 사용합니다.
+
+# JSONP(JSON with Padding)
+
+* jsonp는 한 웹페이지에서 도메인이 다른 웹페이지로 데이터를 요청할 때 사용하는 자바스크립트 개발 방법론
+
+* `<script>` 태그를 이용해서 동일출처 원칙을 회피합니다. `<script>`는 도메인이 다른 스크립트 파일이라도 embed 가능 하기때문입니다.
+
+## 예제 코드
 
 ```html
 <!DOCTYPE html>
