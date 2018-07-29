@@ -18,6 +18,12 @@ comments : true
 * 그래서 API를 이용하는 경우는 jsonp를 이용하여 callback 함수에서 해결하는 방법 `JSONP` 를 사용합니다.
 
 # JSONP(JSON with Padding)
+dlfgjdklfg
+dfgkljdlfkg
+dfglkdjgkldfg
+dfgkdjflgkdjfgd
+fgkdjfgldkjfgd
+fgdjkfgg
 
 * jsonp는 한 웹페이지에서 도메인이 다른 웹페이지로 데이터를 요청할 때 사용하는 자바스크립트 개발 방법론
 
