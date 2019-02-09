@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="a"></div>
+<script>
+
+    const test = ({data:{content}})=>{
+        console.log(d64(content));
+        const ta = document.createElement('textarea');
+        ta.innerText = (d64(content));
+        document.getElementById("a").appendChild(ta);
+    };
+
+    const Github = class{
+        constructor(id, repo){
+            this._base = `https://api.github.com/repos/${id}/${repo}/contents/`;
+        }
+        load(path){
+            const s = document.createElement('script');
+            s.src = `${this._base + path}?callback=test`;
+            document.head.appendChild(s);
+            document.head.removeChild(s);
+        }
+    };
+
+    const d64 =v=>decodeURIComponent(atob(v).split('').map(c=>'%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2)).join(''));
+
+
+    const  github1 = new Github('kwakkwakkwak','TypAd');
+    github1.load('README.md');
+</script>
+</body>
+</html>

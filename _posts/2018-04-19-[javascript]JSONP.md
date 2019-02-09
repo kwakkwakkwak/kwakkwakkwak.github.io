@@ -23,7 +23,13 @@ comments : true
 
 * `<script>` 태그를 이용해서 동일출처 원칙을 회피합니다. `<script>`는 도메인이 다른 스크립트 파일이라도 embed 가능 하기때문입니다.
 
-## 예제 코드
+# 실행 화면
+
+<object width="100%" height="400" data='/assets/src/codespitz/jsonp/jsonp_example.html'>
+</object>
+
+
+# 예제 코드
 
 ```html
 <!DOCTYPE html>
