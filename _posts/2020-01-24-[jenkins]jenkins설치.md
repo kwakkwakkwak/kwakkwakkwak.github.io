@@ -1,11 +1,11 @@
 ---
- title: "[jenkins] jenkins & CI/CD 설치"
- description: "jenkins 설치"
- categories: jenkins CI CD 
- tags: jenkins CI CD
- date: 2020-01-24
- comments : true
- ---
+title: "[jenkins] jenkins & CI/CD 설치"
+description: "jenkins 설치"
+categories: jenkins CI CD 
+tags: jenkins CI CD
+date: 2020-01-24
+comments : true
+---
  
  # Jenkins & CI / CD 란? 
  
