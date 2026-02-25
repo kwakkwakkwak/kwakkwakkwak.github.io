@@ -3,7 +3,7 @@ title: "[Kubernetes] ConfigMap + SealedSecrets로 설정 관리하기"
 description: "Kubernetes에서 ConfigMap과 Sealed Secrets를 활용한 환경변수 관리 아키텍처와 실전 가이드"
 categories: Kubernetes DevOps
 tags: Kubernetes ConfigMap SealedSecrets Helm ArgoCD
-date: 2026-02-20
+date: 2026-02-25
 comments: true
 ---
 
@@ -195,6 +195,23 @@ Spring Boot의 환경변수 바인딩 규칙:
 | Frontend | BUILD_MODE, TZ | - |
 | Admin Frontend | BUILD_MODE, TZ | - |
 | AI Service | 환경, TZ, LLM, LangChain, CORS | API 키, DB URL 등 6종 |
+| AI Web | BUILD_MODE, TZ, VITE_API_URL | - |
+
+---
+
+## 프론트엔드 런타임 환경변수 주입 (window.ENV)
+
+React/Vite 앱은 빌드 타임에 `import.meta.env`로 환경변수를 bake-in하지만, 이미지 재빌드 없이 환경변수를 바꾸려면 런타임 주입이 필요하다.
+
+```
+ConfigMap (VITE_API_URL 등)
+  → Pod 환경변수 주입 (envFrom)
+  → docker-entrypoint.sh가 VITE_* 환경변수 → /usr/share/nginx/html/env.js 생성
+  → index.html에서 <script src="/env.js"> 로드
+  → JS 코드에서 window.ENV?.API_URL || import.meta.env.VITE_API_URL 폴백
+```
+
+이 패턴을 사용하면 하나의 Docker 이미지로 환경별(dev, staging, prod) 설정만 바꿔서 배포할 수 있다.
 
 ---
 
