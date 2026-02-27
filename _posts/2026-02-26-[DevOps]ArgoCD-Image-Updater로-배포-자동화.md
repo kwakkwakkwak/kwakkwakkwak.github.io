@@ -1,4 +1,4 @@
-다 커밋 ---
+---
 title: "[DevOps] ArgoCD Image Updater로 배포 자동화하기"
 description: "Git 태그 기반 semver 전략으로 ArgoCD Image Updater를 적용하고, 타임스탬프 태그 이슈를 해결한 과정"
 categories: DevOps GitOps
