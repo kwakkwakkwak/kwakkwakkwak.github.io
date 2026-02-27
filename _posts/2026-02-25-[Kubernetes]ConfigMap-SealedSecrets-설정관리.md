@@ -169,18 +169,56 @@ Bastion에서 실행하는 파이프라인 스크립트:
 
 **동작**: 값 암호화(secret만) → YAML 자동 업데이트 → diff 확인 → git commit & push → ArgoCD sync
 
-## 환경변수 이름 규칙
+## 환경변수 이름 규칙 (Relaxed Binding)
 
-Spring Boot의 환경변수 바인딩 규칙:
+Spring Boot는 **Relaxed Binding**이라는 규칙으로 `application.yml`의 프로퍼티를 환경변수에 매핑한다. ConfigMap/Secret에 환경변수를 등록할 때 이 규칙을 따라야 Spring이 값을 인식한다.
 
-| application.yml 경로 | 환경변수 이름 |
-|----------------------|--------------|
-| `spring.datasource.url` | `SPRING_DATASOURCE_URL` |
-| `spring.datasource.username` | `SPRING_DATASOURCE_USERNAME` |
-| `jwt.token.access-secret` | `JWT_TOKEN_ACCESSSECRET` |
-| `my.tenant.routes.COMPANY.jdbc-url` | `MY_TENANT_ROUTES_COMPANY_JDBCURL` |
+### 변환 규칙
 
-**규칙**: `.` → `_`, `-` 제거, 전부 대문자
+1. `.`(점) → `_`(언더스코어)로 치환
+2. `-`(하이픈) → 제거
+3. 전부 **대문자**로 변환
+
+### 변환 예시
+
+| application.yml 경로 | 환경변수 이름 | 적용 규칙 |
+|----------------------|--------------|-----------|
+| `server.port` | `SERVER_PORT` | `.` → `_`, 대문자 |
+| `spring.datasource.url` | `SPRING_DATASOURCE_URL` | `.` → `_`, 대문자 |
+| `spring.datasource.username` | `SPRING_DATASOURCE_USERNAME` | `.` → `_`, 대문자 |
+| `jwt.token.access-secret` | `JWT_TOKEN_ACCESSSECRET` | `.` → `_`, `-` 제거, 대문자 |
+| `spring.jpa.show-sql` | `SPRING_JPA_SHOWSQL` | `.` → `_`, `-` 제거, 대문자 |
+| `my.hikari.maximum-pool-size` | `MY_HIKARI_MAXIMUMPOOLSIZE` | `.` → `_`, `-` 제거, 대문자 |
+| `my.tenant.routes.COMPANY.jdbc-url` | `MY_TENANT_ROUTES_COMPANY_JDBCURL` | `.` → `_`, `-` 제거, 대문자 |
+
+### 실전 적용
+
+```yaml
+# application-prod.yml (앱 레포)
+spring:
+  datasource:
+    url: ${SPRING_DATASOURCE_URL}          # ConfigMap/Secret에서 주입
+    username: ${SPRING_DATASOURCE_USERNAME}
+    password: ${SPRING_DATASOURCE_PASSWORD}
+  jpa:
+    show-sql: ${SPRING_JPA_SHOWSQL:false}  # 기본값 지정 가능
+```
+
+```yaml
+# configs-repo/<service>/config.yaml
+config:
+  SPRING_JPA_SHOWSQL: "false"
+```
+
+```yaml
+# configs-repo/<service>/secrets.yaml
+sealedSecrets:
+  SPRING_DATASOURCE_URL: AgCEW/ao...      # kubeseal로 암호화된 값
+  SPRING_DATASOURCE_USERNAME: AgBx/kL...
+  SPRING_DATASOURCE_PASSWORD: AgDf/mN...
+```
+
+환경변수 이름만 규칙에 맞추면 Spring Boot가 자동으로 프로퍼티에 바인딩한다. `application.yml`에서 `${ENV_VAR}` 플레이스홀더를 쓰든, Relaxed Binding으로 자동 매핑하든 둘 다 동작한다.
 
 ---
 

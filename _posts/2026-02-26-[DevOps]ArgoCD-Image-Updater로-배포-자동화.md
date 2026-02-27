@@ -3,7 +3,7 @@ title: "[DevOps] ArgoCD Image Updater로 배포 자동화하기"
 description: "Git 태그 기반 semver 전략으로 ArgoCD Image Updater를 적용하고, 타임스탬프 태그 이슈를 해결한 과정"
 categories: DevOps GitOps
 tags: ArgoCD Image-Updater GitOps GHCR semver
-date: 2026-02-25
+date: 2026-02-26
 comments: true
 ---
 
